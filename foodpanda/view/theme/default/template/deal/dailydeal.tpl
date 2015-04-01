@@ -12,39 +12,53 @@
         <link href="<?php echo DIR_ROOT_NAME ?>/view/theme/default/stylesheet/dkdn.css" rel="stylesheet">
         <link href="<?php echo DIR_ROOT_NAME ?>/view/theme/default/stylesheet/jquery.jqzoom.css" rel="stylesheet">
 
+        <style>
+            body{margin:0px;padding:0px;font-family:Arial;}
+            a img,:link img,:visited img { border: none; }
+            table { border-collapse: collapse; border-spacing: 0; }
+            :focus { outline: none; }
+            *{margin:0;padding:0;}
+            p, blockquote, dd, dt{margin:0 0 8px 0;line-height:1.5em;}
+            fieldset {padding:0px;padding-left:7px;padding-right:7px;padding-bottom:7px;}
+            fieldset legend{margin-left:15px;padding-left:3px;padding-right:3px;color:#333;}
+            dl dd{margin:0px;}
+            dl dt{}
+            .clearfix:after{clear:both;content:".";display:block;font-size:0;height:0;line-height:0;visibility:hidden;}
+            .clearfix{display:block;zoom:1}
+
+            ul#thumblist{
+                display: block;
+                border-right: 1px solid #333;
+                padding-right: 10px;
+            }
+            .jqzoom{
+                text-decoration:none;
+                float:left;
+            }
+        </style>
+
         <script src="<?php echo DIR_ROOT_NAME ?>/view/javascript/jquery-1.9.1.min.js"></script>
         <script src="<?php echo DIR_ROOT_NAME ?>/view/javascript/jquery.jqzoom-core.js"></script>
         <script src="<?php echo DIR_ROOT_NAME ?>/view/javascript/jquery.countdown.min.js"></script>
         <script src="<?php echo DIR_ROOT_NAME ?>/view/javascript/template.js"></script>
-        <script type="text/javascript">
-            $(document).ready(function() {
-                $('.jqzoom').jqzoom({
-                    zoomType: 'standard',
-                    lens:true,
-                    preloadImages: false,
-                    alwaysOn:false
-                });
-            });
-        </script>
     </head>
     <body>
 
         <!-- ================ Div mua ngay ================== -->
-        <div style="display:none" id="xyz">
-            <div style="opacity: 0.7;" class="nyroModalBg"></div>
-            <div style="position: fixed; width: 775px; height: 427px; top: 0px; left: 50%;
-margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
+        <div id="xyz" style="display:none">
+            <div class="nyroModalBg" style="opacity: 0.7;"></div>
+            <div class="nyroModalCont" style="position: fixed; width: 775px; height: 427px; top: 0px; left: 50%; margin-left: -387px; overflow: auto; margin-top: 100px;">
 
-                <div style="z-index: 1011; position: absolute; padding: 0px; margin: 0px; width: 50px; top: 326px; left: 350px; text-align: center; color: rgb(0, 0, 0); border: 3px solid rgb(170, 170, 170); cursor: wait; height: 50px; background-color: rgb(255, 255, 255);" class="blockUI blockMsg blockElement"><i class="i-loader"></i></div>
+                <div class="blockUI blockMsg blockElement" style="z-index: 1011; position: absolute; padding: 0px; margin: 0px; width: 50px; top: 326px; left: 350px; text-align: center; color: rgb(0, 0, 0); border: 3px solid rgb(170, 170, 170); cursor: wait; height: 50px; background-color: rgb(255, 255, 255);"><i class="i-loader"></i></div>
                 <div class="nyroModalLink">
-                    <a style="position: fixed; top: 89px; left: 1039.5px" title="close" class="nyroModalClose nyroModalCloseButton nmReposition" href="#">Close</a>
-                    <iframe style="display: none" src=""></iframe>
-                    <div class="ch-container" id="three_step_checkout">
+                    <a href="#" class="nyroModalClose nyroModalCloseButton nmReposition" title="close" style="position: fixed; top: 89px; left: 1039.5px">Close</a>
+                    <iframe src="" style="display: none"></iframe>
+                    <div id="three_step_checkout" class="ch-container">
                         <div class="new_cart new_ajax_cart">
                             <div data-role="message-holder"> </div>
-                            <form method="post" action="/cart/" id="cart-items-list-form">
+                            <form id="cart-items-list-form" action="/cart/" method="post">
                                 <div style="display:none">
-                                    <input type="hidden" name="YII_CSRF_TOKEN" value="d1896862af8516155bf426743672c002d8b460ae">
+                                    <input type="hidden" value="d1896862af8516155bf426743672c002d8b460ae" name="YII_CSRF_TOKEN">
                                 </div>
                                 <div>
                                     <img src="image/icon-ert.png">
@@ -52,9 +66,9 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                         Máy ép trái cây tốc độ chậm Magic Korea A90 0.65L (Bạc) đã thêm vào giỏ hàng
                                     </p>
                                 </div>
-                                <input type="hidden" value="1" name="cartUpdate">
+                                <input type="hidden" name="cartUpdate" value="1">
                                 <span class="cartintro">Bạn có 1 sản phẩm trong giỏ hàng.</span>
-                                <table id="tableheader" class="width_100">
+                                <table class="width_100" id="tableheader">
                                     <tbody>
                                     <tr>
                                         <td class="width_20"></td>
@@ -69,14 +83,14 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                     <table class="width_100 producttable">
                                         <tbody>
                                         <tr>
-                                            <td class="width_20"><a href="/ng-h-nam-day-thep-khong-g-eyki-eov8568-b-c-100539.html?mp=1"> <img width="78" height="117" onerror="$(this).attr('src','http://static-01.lazada.vn/images/spinbasket/placeholder/placeholder_l_3.jpg')" alt="Đồng hồ nam dây thép không gỉ EYKI EOV8568 (Bạc)" src="http://static-01.lazada.vn/p/ong-ho-nam-day-thep-khong-gi-eyki-eov8568-bac-8347-935001-1-catalog.jpg"> </a></td>
+                                            <td class="width_20"><a href="/ng-h-nam-day-thep-khong-g-eyki-eov8568-b-c-100539.html?mp=1"> <img src="http://static-01.lazada.vn/p/ong-ho-nam-day-thep-khong-gi-eyki-eov8568-bac-8347-935001-1-catalog.jpg" width="78" height="117" alt="Đồng hồ nam dây thép không gỉ EYKI EOV8568 (Bạc)" onerror="$(this).attr('src','http://static-01.lazada.vn/images/spinbasket/placeholder/placeholder_l_3.jpg')"> </a></td>
                                             <td class="width_40"><div class="productdescription">Đồng hồ nam dây thép không gỉ EYKI EOV8568 (Bạc)</div>
                                                 <div class="productdetails">EYKI</div>
-                                                <span class="stock instock"> ✓ Còn hàng </span> <span class="productlink"> <a class="cart-product-actions-link sel-product-move-to-wishlist" data-price="799000" data-sku="EY192FAAC5KRVNAMZ-111398" href="/cart/movetowishlist/p/EY192FAAC5KRVNAMZ/sku/EY192FAAC5KRVNAMZ-111398/?YII_CSRF_TOKEN=d1896862af8516155bf426743672c002d8b460ae"> Thêm vào danh sách yêu thích </a> </span> <span class="productlink"> <a class="cart-product-actions-link cartItemRemove sel-cart-remove-item-EY192FAAC5KRVNAMZ-111398" href="/cart/remove/?sku=EY192FAAC5KRVNAMZ-111398&amp;YII_CSRF_TOKEN=d1896862af8516155bf426743672c002d8b460ae" data-price="799000" data-sku="EY192FAAC5KRVNAMZ-111398" id="EY192FAAC5KRVNAMZ-111398"> Xóa </a> </span></td>
+                                                <span class="stock instock"> ✓ Còn hàng </span> <span class="productlink"> <a href="/cart/movetowishlist/p/EY192FAAC5KRVNAMZ/sku/EY192FAAC5KRVNAMZ-111398/?YII_CSRF_TOKEN=d1896862af8516155bf426743672c002d8b460ae" data-sku="EY192FAAC5KRVNAMZ-111398" data-price="799000" class="cart-product-actions-link sel-product-move-to-wishlist"> Thêm vào danh sách yêu thích </a> </span> <span class="productlink"> <a id="EY192FAAC5KRVNAMZ-111398" data-sku="EY192FAAC5KRVNAMZ-111398" data-price="799000" href="/cart/remove/?sku=EY192FAAC5KRVNAMZ-111398&amp;YII_CSRF_TOKEN=d1896862af8516155bf426743672c002d8b460ae" class="cart-product-actions-link cartItemRemove sel-cart-remove-item-EY192FAAC5KRVNAMZ-111398"> Xóa </a> </span></td>
                                             <td class="width_15 price center"><span>799.000 VND</span><br>
                                                 <span class="mbs cart-product-oldprice-value"> <span>1.600.000 VND</span> </span><br>
                                                 <span class="txtGreen strong"> Giảm giá 50% </span></td>
-                                            <td class="width_10 price center"><select title="Số lượng" id="qty_EY192FAAC5KRVNAMZ-111398" name="qty_EY192FAAC5KRVNAMZ-111398" class="sel-cart-quantity-EY192FAAC5KRVNAMZ-111398 cart-product-actions-select cart-product-item-cell-qty-select" data-price="799000" data-sku="EY192FAAC5KRVNAMZ-111398">
+                                            <td class="width_10 price center"><select data-sku="EY192FAAC5KRVNAMZ-111398" data-price="799000" class="sel-cart-quantity-EY192FAAC5KRVNAMZ-111398 cart-product-actions-select cart-product-item-cell-qty-select" name="qty_EY192FAAC5KRVNAMZ-111398" id="qty_EY192FAAC5KRVNAMZ-111398" title="Số lượng">
                                                     <option selected="">1</option>
                                                     <option>2</option>
                                                     <option>3</option>
@@ -93,7 +107,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                     <table class="width_100">
                                         <tbody>
                                         <tr class="sub">
-                                            <td class="bdo width_60" rowspan="4" colspan="2"></td>
+                                            <td colspan="2" rowspan="4" class="bdo width_60"></td>
                                             <td class="width_15">Tổng cộng</td>
                                             <td class="width_30 right_align lastcolumn"><div>799.000 VND</div></td>
                                         </tr>
@@ -105,10 +119,10 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                         </tbody>
                                     </table>
                                 </div>
-                                <input type="hidden" value="1" id="totalAmountCartItems">
+                                <input type="hidden" id="totalAmountCartItems" value="1">
                                 <div class="cart_btn_row">
-                                    <div class="closelink"> <a href="http://www.lazada.vn/dong-ho-nam-gioi/" class="sel-continue-shopping" id="cartContinueShopping" onclick="javascript: trackContinueShopping();"> <span>► Thêm sản phẩm khác vào giỏ hàng</span> </a> </div>
-                                    <div class="proceedtocheckout"> <a href="https://www.lazada.vn/checkout/step/index/" class="submit_btn mtssel-cart-checkout-button" onclick="javascript: _gaq.push(['_trackPageview', '/checkout/step/index/']); trackCart2Pay();"> <span class="cart_submit_text">Tiến hành đặt hàng »</span> <span class="cart_submit_icon"></span> </a> </div>
+                                    <div class="closelink"> <a onclick="javascript: trackContinueShopping();" id="cartContinueShopping" class="sel-continue-shopping" href="http://www.lazada.vn/dong-ho-nam-gioi/"> <span>► Thêm sản phẩm khác vào giỏ hàng</span> </a> </div>
+                                    <div class="proceedtocheckout"> <a onclick="javascript: _gaq.push(['_trackPageview', '/checkout/step/index/']); trackCart2Pay();" class="submit_btn mtssel-cart-checkout-button" href="https://www.lazada.vn/checkout/step/index/"> <span class="cart_submit_text">Tiến hành đặt hàng »</span> <span class="cart_submit_icon"></span> </a> </div>
                                 </div>
                             </form>
                         </div>
@@ -486,25 +500,25 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                 </div>
 
                 <main class="js-sticky-height-calculate-container">
-                    <div style="background-image: url(image/detail-feature.png);" class="homepage-area-selection-container detail-feature">
+                    <div class="homepage-area-selection-container detail-feature" style="background-image: url(image/detail-feature.png);">
                         <div class="container">
                             <div class="homepage-tagline">
                             </div>
                             <div class="js-location-search location-search location-search-main-page location_city_area search-detail">
                                 <div class="location-search-inner">
-                                    <form class="form-vertical" role="form" action="https://www.foodpanda.vn/location-suggestions" method="get" name="">
+                                    <form name="" method="get" action="https://www.foodpanda.vn/location-suggestions" role="form" class="form-vertical">
                                         <div class="city">
-                                            <div id="wrapper-element-1" class="dropdown-typeahead-wrapper">
-                    <span style="position: relative; display: inline-block; direction: ltr;" class="twitter-typeahead">
-                    <input type="text" style="position: absolute; top: 0px; left: 0px; border-color: transparent; box-shadow: none; opacity: 1; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); width: 587px;" tabindex="-1" spellcheck="false" autocomplete="off" readonly="" class="form-control twitter-typeahead tt-hint">
-                    <input type="text" placeholder="Tìm kiếm theo sản phẩm, danh mục hay nhãn hàng bạn mong muốn" style="position: relative; vertical-align: top; background-color: transparent; width: 587px; " dir="auto" spellcheck="false" autocomplete="off" class="form-control twitter-typeahead tt-input"></span>
+                                            <div class="dropdown-typeahead-wrapper" id="wrapper-element-1">
+                    <span class="twitter-typeahead" style="position: relative; display: inline-block; direction: ltr;">
+                    <input class="form-control twitter-typeahead tt-hint" type="text" readonly autocomplete="off" spellcheck="false" tabindex="-1" style="position: absolute; top: 0px; left: 0px; border-color: transparent; box-shadow: none; opacity: 1; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); width: 587px;">
+                    <input class="form-control twitter-typeahead tt-input" type="text" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top; background-color: transparent; width: 587px; " placeholder="Tìm kiếm theo sản phẩm, danh mục hay nhãn hàng bạn mong muốn"></span>
                                             </div>
-                                            <span class="help-inline" id="city-not-selected-error"></span>
+                                            <span id="city-not-selected-error" class="help-inline"></span>
                                         </div>
                                         <div class="find-foods1">
-                                            <button class="btn btn-detail btn-lg btn-block btn-arrow btn-find-foods1" name="button" id="button" type="submit">TÌM KIẾM</button>
+                                            <button type="submit" id="button" name="button" class="btn btn-detail btn-lg btn-block btn-arrow btn-find-foods1">TÌM KIẾM</button>
                                         </div>
-                                        <input type="hidden" data-prefill="location.areaId" name="area_id" id="area_id">
+                                        <input type="hidden" id="area_id" name="area_id" data-prefill="location.areaId">
                                     </form>
                                     <div class="total-cart-detail">
                                         <div class="header__cart headCart">
@@ -519,52 +533,52 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                     <div class=" container container2 gg-ladaza gg-ladaza-detail">
                         <ul>
                             <li>
-                                <img src="image/gg1.png">
-                                <a>Điện thoại &amp; Tablet</a>
+                                <img src="image/gg1.png"/>
+                                <a>Điện thoại & Tablet</a>
                             </li>
                             <li>
-                                <img src="image/gg2.png">
+                                <img src="image/gg2.png"/>
                                 <a>Đồ gia dụng</a>
                             </li>
                             <li>
-                                <img src="image/gg3.png">
-                                <a>Tivi &amp; Màn hình</a>
+                                <img src="image/gg3.png"/>
+                                <a>Tivi & Màn hình</a>
                             </li>
                             <li>
-                                <img src="image/gg4.png">
+                                <img src="image/gg4.png"/>
                                 <a>Laptop</a>
                             </li>
                             <li>
-                                <img src="image/gg5.png">
+                                <img src="image/gg5.png"/>
                                 <a>Máy ảnh</a>
                             </li>
                             <li class="row-6">
-                                <img src="image/gg6.png">
+                                <img src="image/gg6.png"/>
                                 <a>Mẹ và bé</a>
                             </li>
                             <li class="line-gg">
-                                <img src="image/gg7.png">
+                                <img src="image/gg7.png"/>
                                 <a>Nội thất</a>
                             </li>
                             <li class="line-gg">
-                                <img src="image/gg8.png">
+                                <img src="image/gg8.png"/>
                                 <a>Sách</a>
                             </li>
                             <li class="line-gg">
-                                <img src="image/gg9.png">
-                                <a>Mỹ phẩm &amp; Làm đẹp</a>
+                                <img src="image/gg9.png"/>
+                                <a>Mỹ phẩm & Làm đẹp</a>
                             </li>
                             <li class="line-gg">
-                                <img src="image/gg10.png">
-                                <a>Đồng hồ &amp; Mắt kính</a>
+                                <img src="image/gg10.png"/>
+                                <a>Đồng hồ & Mắt kính</a>
                             </li>
                             <li class="line-gg">
-                                <img src="image/gg11.png">
+                                <img src="image/gg11.png"/>
                                 <a>Đồ thể thao</a>
                             </li>
                             <li class="line-gg">
-                                <img src="image/gg12.png">
-                                <a>Túi sách &amp; Phụ kiện</a>
+                                <img src="image/gg12.png"/>
+                                <a>Túi sách & Phụ kiện</a>
                             </li>
                         </ul>
                     </div>
@@ -578,73 +592,73 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                 <article>
                 <div class="l-pageWrapper">
                 <div id="prd-detail-page">
-                    <div itemtype="http://schema.org/Product" itemscope="">
+                    <div itemscope="" itemtype="http://schema.org/Product">
 
-                        <div class="l-main prd-detail-wrapper" id="prodinfo">
-                            <div class="prd-media" id="prdMedia">
+                        <div id="prodinfo" class="l-main prd-detail-wrapper">
+                            <div id="prdMedia" class="prd-media">
                                 <span class="discount">-51%</span>
-                                <div style="display:none;" class="ui-dialog ui-dialogPrdZoom" id="prdZoomExpanded">
-                                    <div class="container"> <a class="i-dialogClose ui-dialogClose ui-inlineBlock" id="dialogClose" href="http://www.lazada.vn/bep-gas-hong-ngoai-fujishi-fm-h07-den-118422.html#"></a>
-                                        <div class="prdZoomExpanded-icon" id="prdZoomExpandedClose"></div>
-                                        <img width="850" height="850" class="" id="prdZoomExpandedImage"> </div>
+                                <div id="prdZoomExpanded" class="ui-dialog ui-dialogPrdZoom" style="display:none;">
+                                    <div class="container"> <a href="http://www.lazada.vn/bep-gas-hong-ngoai-fujishi-fm-h07-den-118422.html#" id="dialogClose" class="i-dialogClose ui-dialogClose ui-inlineBlock"></a>
+                                        <div id="prdZoomExpandedClose" class="prdZoomExpanded-icon"></div>
+                                        <img id="prdZoomExpandedImage" class="" width="850" height="850"> </div>
                                 </div>
-                                <div style="opacity: 1; display: none; background-image: url(http://static-02.lazada.vn/p/bep-gas-hong-ngoai-fujishi-fm-h07-en-8856-67739-1-zoom.jpg); background-position: -361.858823529412px 0px;" data-zoom-image="http://static-02.lazada.vn/p/bep-gas-hong-ngoai-fujishi-fm-h07-en-8856-67739-1-zoom.jpg" id="productZoom"></div>
-                                <div id="content" class="clearfix">
+                                <div id="productZoom" data-zoom-image="http://static-02.lazada.vn/p/bep-gas-hong-ngoai-fujishi-fm-h07-en-8856-67739-1-zoom.jpg" style="opacity: 1; display: none; background-image: url(http://static-02.lazada.vn/p/bep-gas-hong-ngoai-fujishi-fm-h07-en-8856-67739-1-zoom.jpg); background-position: -361.858823529412px 0px;"></div>
+                                <div class="clearfix" id="content" >
                                     <div class="clearfix thumb-pri">
-                                        <a title="" rel="gal1" class="jqzoom" href="imgProd/triumph_big1.jpg" style="outline-style: none; text-decoration: none;">
-                                            <div class="zoomPad"><img title="triumph" src="imgProd/triumph_small1.jpg" style="opacity: 1;"><div class="zoomPup" style="top: -1px; left: 115px; width: 72px; height: 72px; position: absolute; border-width: 1px; display: none;"></div><div class="zoomWindow" style="position: absolute; z-index: 5001; left: 318px; top: 0px; display: none;"><div class="zoomWrapper" style="width: 300px;"><div class="zoomWrapperTitle" style="width: 100%; position: absolute; display: block;">triumph</div><div class="zoomWrapperImage" style="width: 100%; height: 300px;"><img style="position: absolute; border: 0px none; display: block; left: -482.078px; top: 0px;" src="imgProd/triumph_big1.jpg"></div></div></div><div class="zoomPreload" style="visibility: hidden; top: 111px; left: 118px; position: absolute;">Loading zoom</div></div>
+                                        <a href="image/imgProd/triumph_big1.jpg" class="jqzoom" rel='gal1'  title="triumph" >
+                                            <img src="image/imgProd/triumph_small1.jpg"  title="triumph">
                                         </a>
                                     </div>
-                                    <br>
-                                    <div class="clearfix thumb-list">
-                                        <ul class="clearfix" id="thumblist">
-                                            <li><a rel="{gallery: 'gal1', smallimage: './imgProd/triumph_small1.jpg',largeimage: './imgProd/triumph_big1.jpg'}" href="javascript:void(0);" class="zoomThumbActive"><img src="imgProd/thumbs/triumph_thumb1.jpg"></a></li>
-                                            <li><a rel="{gallery: 'gal1', smallimage: './imgProd/triumph_small2.jpg',largeimage: './imgProd/triumph_big2.jpg'}" href="javascript:void(0);"><img src="imgProd/thumbs/triumph_thumb2.jpg"></a></li>
-                                            <li><a rel="{gallery: 'gal1', smallimage: './imgProd/triumph_small3.jpg',largeimage: './imgProd/triumph_big3.jpg'}" href="javascript:void(0);"><img src="imgProd/thumbs/triumph_thumb3.jpg"></a></li>
+                                    <br/>
+                                    <div class="clearfix thumb-list" >
+                                        <ul id="thumblist" class="clearfix" >
+                                            <li><a class="zoomThumbActive" href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: './image/imgProd/triumph_small1.jpg',largeimage: './image/imgProd/triumph_big1.jpg'}"><img src='image/imgProd/thumbs/triumph_thumb1.jpg'></a></li>
+                                            <li><a href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: './image/imgProd/triumph_small2.jpg',largeimage: './image/imgProd/triumph_big2.jpg'}"><img src='image/imgProd/thumbs/triumph_thumb2.jpg'></a></li>
+                                            <li><a  href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: './image/imgProd/triumph_small3.jpg',largeimage: './image/imgProd/triumph_big3.jpg'}"><img src='image/imgProd/thumbs/triumph_thumb3.jpg'></a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
-                            <div class="leadtimeHolder" id="prod_content_wrapper">
+                            <div id="prod_content_wrapper" class="leadtimeHolder">
                                 <div class="prod_l_content">
                                     <div class="prod_brief">
-                                        <h1 itemprop="name" id="prod_title">Bếp gas hồng ngoại FUJISHI FM-H07 (Đen)</h1>
+                                        <h1 id="prod_title" itemprop="name">Bếp gas hồng ngoại FUJISHI FM-H07 (Đen)</h1>
                                     </div>
-                                    <div property="gr:hasPriceSpecification" class="prod_pricebox price_details" id="product-price-box">
+                                    <div id="product-price-box" class="prod_pricebox price_details" property="gr:hasPriceSpecification">
                                         <div class="prod_pricebox_price">
-                                            <span class="price_erase"> <span class="price-prefix-detail" id="product_price_prefix"></span> <span id="price_box">690.000 VND</span> </span>
-                                            <div class="prod_pricebox_price_final"> <span class="hidden" id="product_price">439000.00</span> <span id="special_price_box">439.000 VND</span> </div>
-                                            <div class=" prod_pricebox_price_special" id="special_price_area">
+                                            <span class="price_erase"> <span id="product_price_prefix" class="price-prefix-detail"></span> <span id="price_box">690.000 VND</span> </span>
+                                            <div class="prod_pricebox_price_final"> <span id="product_price" class="hidden">439000.00</span> <span id="special_price_box">439.000 VND</span> </div>
+                                            <div id="special_price_area" class=" prod_pricebox_price_special">
                                             </div>
                                         </div>
                                         <!-- click on the question mark icon to open the tooltip popup -->
 
                                     </div>
                                     <div class="prod_cta">
-                                        <input type="hidden" value="FU027HLACJDIVNAMZ" name="configSku" id="configSku">
-                                        <input type="hidden" value="FU027HLACJDIVNAMZ-136267" name="sku" id="selectedSku">
-                                        <input type="hidden" value="0" name="configProductInvisible" id="configProductInvisible">
-                                        <div id="buy-wrapper" class="instock prod_buy">
-                                            <button type="submit" title="MUA NHANH" class="ui-buttonFastLane mtm submit_btn express_buy_btn btn-dailydeal btn-dailydeal-1" id="FastLane" data-type="fastlane" data-state="Active"><span class="i-cartFastLane i-cartFastLane-dailydeal "></span><span class="i-cartFastLaneHead">Đã bán: 2 <br>
+                                        <input id="configSku" type="hidden" name="configSku" value="FU027HLACJDIVNAMZ">
+                                        <input id="selectedSku" type="hidden" name="sku" value="FU027HLACJDIVNAMZ-136267">
+                                        <input id="configProductInvisible" type="hidden" name="configProductInvisible" value="0">
+                                        <div class="instock prod_buy" id="buy-wrapper">
+                                            <button data-state="Active" data-type="fastlane" id="FastLane" class="ui-buttonFastLane mtm submit_btn express_buy_btn btn-dailydeal btn-dailydeal-1" title="MUA NHANH" type="submit"><span class="i-cartFastLane i-cartFastLane-dailydeal "></span><span class="i-cartFastLaneHead">Đã bán: 2 <br>
                     Còn: <strong>30</strong></span></button>
-                                            <button id="AddToCart" class="submit_btn buy_btn btn-dailydeal btn-dailydeal-2 submit_btn_dailydeal " value="" name="submit_btn" type="submit"> <span class="submit_btn_text">Mua ngay</span> <span class="submit_btn_icon"></span> </button>
-                                            <p style="display: none;" class="prd-tooltip" id="tooltipConfigProductInvisible"> <span class="l-cell msg pvs phm strong fsm txtGray txtCenter">Bạn không thể mua một mình sản phẩm này</span> </p>
-                                            <button style="display:none;" title="Buy now" class="submit_btn product_invisible_btn" id="btnAddToCartProductInvisible"> <span class="submit_btn_text">Mua ngay</span> <span class="submit_btn_icon"></span> </button>
+                                            <button type="submit" name="submit_btn" value="" class="submit_btn buy_btn btn-dailydeal btn-dailydeal-2 submit_btn_dailydeal " id="AddToCart"> <span class="submit_btn_text">Mua ngay</span> <span class="submit_btn_icon"></span> </button>
+                                            <p id="tooltipConfigProductInvisible" class="prd-tooltip" style="display: none;"> <span class="l-cell msg pvs phm strong fsm txtGray txtCenter">Bạn không thể mua một mình sản phẩm này</span> </p>
+                                            <button id="btnAddToCartProductInvisible" class="submit_btn product_invisible_btn" title="Buy now" style="display:none;"> <span class="submit_btn_text">Mua ngay</span> <span class="submit_btn_icon"></span> </button>
                                         </div>
-                                        <div style="display: none" class="outofstock oosWrapper">
+                                        <div class="outofstock oosWrapper" style="display: none">
                                             <p>Thông báo cho tôi khi có hàng trở lại</p>
                                             <div class="product__outofstock__notify-form__fieldset">
                                                 <!-- input field is hidden when user is an existing user -->
-                                                <input type="text" value="" placeholder="youremail@email.com" maxlength="50" size="50" class="input_field oosInput" name="email">
-                                                <button type="button" class="oosButton button button_color_orange button_size_middle" value="" name="submit_btn"> Báo cho tôi khi có hàng </button>
+                                                <input type="text" name="email" class="input_field oosInput" size="50" maxlength="50" placeholder="youremail@email.com" value="">
+                                                <button name="submit_btn" value="" class="oosButton button button_color_orange button_size_middle" type="button"> Báo cho tôi khi có hàng </button>
                                             </div>
                                             <div class="product__outofstock__notify-form__fieldset">
-                                                <input type="checkbox" class="subs_newsletter" checked="" name="newsletters">
+                                                <input type="checkbox" name="newsletters" checked="" class="subs_newsletter">
                                                 Đăng ký nhận Newsletter </div>
                                             <span class="oosEmailInvalid error"></span> </div>
                                     </div>
-                                    <div class="product__detail-badge
-             m_c" id="productDetailBadge"> </div>
+                                    <div id="productDetailBadge" class="product__detail-badge
+             m_c"> </div>
 
                                     <!-- SEAAMZ-6508 - Add Warranty_list for the product-->
                                 </div>
@@ -652,9 +666,9 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                     <div class="product-leadtime">
                                         <h3 class="product-leadtime__title">Còn giảm giá trong</h3>
                                         <div class="clock">
-                                            <div id="getting-started">05 : 56 : 09</div>
+                                            <div id="getting-started"></div>
                                             <div class="n-time">
-                                                <p>Giờ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Phút &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Giây</p>
+                                                <p>Giờ &nbsp &nbsp &nbsp &nbsp &nbspPhút &nbsp &nbsp &nbsp &nbsp &nbspGiây</p>
                                             </div>
                                             <script type="text/javascript">
                                                 $("#getting-started")
@@ -702,7 +716,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                 <div class="bottom-ct">
                                     <div class="prices">460,000 VND</div>
                                     <div class="price">399,000 VND</div>
-                                    <a class="dt-daily submit_btn_dailydeal" href="#">Mua ngay</a>
+                                    <a href="#" class="dt-daily submit_btn_dailydeal">Mua ngay</a>
                                     <p class="ok"> Đã bán :0 Chỉ còn: 30 </p>
                                 </div>
                             </div>
@@ -718,7 +732,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                 <div class="bottom-ct">
                                     <div class="prices">460,000 VND</div>
                                     <div class="price">399,000 VND</div>
-                                    <a class="dt-daily submit_btn_dailydeal" href="#">Mua ngay</a>
+                                    <a href="#" class="dt-daily submit_btn_dailydeal">Mua ngay</a>
                                     <p class="ok"> Đã bán :0 Chỉ còn: 30 </p>
                                 </div>
                             </div>
@@ -734,7 +748,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                 <div class="bottom-ct">
                                     <div class="prices">460,000 VND</div>
                                     <div class="price">399,000 VND</div>
-                                    <a class="dt-daily submit_btn_dailydeal" href="#">Mua ngay</a>
+                                    <a href="#" class="dt-daily submit_btn_dailydeal">Mua ngay</a>
                                     <p class="ok"> Đã bán :0 Chỉ còn: 30 </p>
                                 </div>
                             </div>
@@ -750,7 +764,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                 <div class="bottom-ct">
                                     <div class="prices">460,000 VND</div>
                                     <div class="price">399,000 VND</div>
-                                    <a class="dt-daily submit_btn_dailydeal" href="#">Mua ngay</a>
+                                    <a href="#" class="dt-daily submit_btn_dailydeal">Mua ngay</a>
                                     <p class="ok"> Đã bán :0 Chỉ còn: 30 </p>
                                 </div>
                             </div>
@@ -766,7 +780,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                 <div class="bottom-ct">
                                     <div class="prices">460,000 VND</div>
                                     <div class="price">399,000 VND</div>
-                                    <a class="dt-daily submit_btn_dailydeal" href="#">Mua ngay</a>
+                                    <a href="#" class="dt-daily submit_btn_dailydeal">Mua ngay</a>
                                     <p class="ok"> Đã bán :0 Chỉ còn: 30 </p>
                                 </div>
                             </div>
@@ -774,7 +788,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                 Giao hàng toàn Quốc
                             </p>
                             <div class="times-min">
-                                <div id="getting-starteds">05 : 56 : 09</div>
+                                <div id="getting-starteds"></div>
                                 <script type="text/javascript">
                                     $("#getting-starteds")
                                             .countdown("2019/01/01", function(event) {
@@ -783,7 +797,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                                 );
                                             });
                                 </script>
-                                <img class="bn-times" src="image/dailydeal-clock2.png">
+                                <img src="image/dailydeal-clock2.png" class="bn-times">
                             </div>
                         </li>
                         <li>
@@ -794,7 +808,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                 <div class="bottom-ct">
                                     <div class="prices">460,000 VND</div>
                                     <div class="price">399,000 VND</div>
-                                    <a class="dt-daily submit_btn_dailydeal" href="#">Mua ngay</a>
+                                    <a href="#" class="dt-daily submit_btn_dailydeal">Mua ngay</a>
                                     <p class="ok"> Đã bán :0 Chỉ còn: 30 </p>
                                 </div>
                             </div>
@@ -810,7 +824,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                 <div class="bottom-ct">
                                     <div class="prices">460,000 VND</div>
                                     <div class="price">399,000 VND</div>
-                                    <a class="dt-daily submit_btn_dailydeal" href="#">Mua ngay</a>
+                                    <a href="#" class="dt-daily submit_btn_dailydeal">Mua ngay</a>
                                     <p class="ok"> Đã bán :0 Chỉ còn: 30 </p>
                                 </div>
                             </div>
@@ -826,7 +840,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                 <div class="bottom-ct">
                                     <div class="prices">460,000 VND</div>
                                     <div class="price">399,000 VND</div>
-                                    <a class="dt-daily submit_btn_dailydeal" href="#">Mua ngay</a>
+                                    <a href="#" class="dt-daily submit_btn_dailydeal">Mua ngay</a>
                                     <p class="ok"> Đã bán :0 Chỉ còn: 30 </p>
                                 </div>
                             </div>
@@ -842,7 +856,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                 <div class="bottom-ct">
                                     <div class="prices">460,000 VND</div>
                                     <div class="price">399,000 VND</div>
-                                    <a class="dt-daily submit_btn_dailydeal" href="#">Mua ngay</a>
+                                    <a href="#" class="dt-daily submit_btn_dailydeal">Mua ngay</a>
                                     <p class="ok"> Đã bán :0 Chỉ còn: 30 </p>
                                 </div>
                             </div>
@@ -858,7 +872,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                 <div class="bottom-ct">
                                     <div class="prices">460,000 VND</div>
                                     <div class="price">399,000 VND</div>
-                                    <a class="dt-daily submit_btn_dailydeal" href="#">Mua ngay</a>
+                                    <a href="#" class="dt-daily submit_btn_dailydeal">Mua ngay</a>
                                     <p class="ok"> Đã bán :0 Chỉ còn: 30 </p>
                                 </div>
                             </div>
@@ -866,7 +880,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                 Giao hàng toàn Quốc
                             </p>
                             <div class="times-min">
-                                <div id="getting-starteds2">05 : 56 : 09</div>
+                                <div id="getting-starteds2"></div>
                                 <script type="text/javascript">
                                     $("#getting-starteds2")
                                             .countdown("2019/01/01", function(event) {
@@ -875,7 +889,7 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
                                                 );
                                             });
                                 </script>
-                                <a href="#"><img class="bn-times" src="image/dailydeal-clock2.png"></a>
+                                <a href="#"><img src="image/dailydeal-clock2.png" class="bn-times"></a>
                             </div>
                         </li>
                     </ul>
@@ -886,6 +900,15 @@ margin-left: -387px; overflow: auto; margin-top: 100px;" class="nyroModalCont">
 
             <?php echo $footer; ?>
         </div>
-
     </body>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('.jqzoom').jqzoom({
+                zoomType: 'standard',
+                lens:true,
+                preloadImages: false,
+                alwaysOn:false
+            });
+        });
+    </script>
 </html>

@@ -18,14 +18,14 @@
             </ul>
         </div><!--End-nav-foodpanda-->
         <ul class="header-links">
-            <li class="customer-account"><a href="#" class="btn btn-default customer-login js-auth-login" data-loading-text="Đang tải..." rel="nofollow">Đăng nhập</a></li>
+            <li class="customer-account"><a href="#" class="btn btn-default customer-login js-auth-login">Đăng nhập</a></li>
         </ul>
     </div>
 </header>
 <div class="breadcrumbs">
     <div class="container">
         <ol class="breadcrumb_pages">
-            <li itemscope="" itemtype=""><a href="" itemprop="url" style="width: 400px;display: block;"><span itemprop="title">Trang chủ</span></a></li>
+            <li itemscope="" itemtype=""><a href="" itemprop="url"><span itemprop="title" style="width: 400px;display: block;">Trang chủ</span></a></li>
         </ol>
         <div class="breadcrumb_extras">
             <ul class="service-links">
