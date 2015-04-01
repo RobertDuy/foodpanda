@@ -1,0 +1,5 @@
+2015-04-01 7:56:29 - PHP Warning:  fopen(/var/www/html/foodpanda/download/test): failed to open stream: No such file or directory in /var/www/html/foodpanda/admin/controller/common/home.php on line 99
+2015-04-01 7:56:29 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/foodpanda/admin/controller/common/home.php on line 101
+2015-04-01 7:56:29 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/foodpanda/admin/controller/common/home.php on line 103
+2015-04-01 11:07:39 - PHP Notice:  Use of undefined constant header - assumed 'header' in /var/www/html/foodpanda/foodpanda/view/theme/default/template/deal/dailydeal.tpl on line 393
+2015-04-01 11:09:42 - PHP Notice:  Use of undefined constant header - assumed 'header' in /var/www/html/foodpanda/foodpanda/view/theme/default/template/deal/dailydeal.tpl on line 483

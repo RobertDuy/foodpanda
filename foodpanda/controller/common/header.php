@@ -1,6 +1,6 @@
 <?php
 
-class ControllerCommonHead extends Controller
+class ControllerCommonHeader extends Controller
 {
     public function index()
     {
@@ -9,10 +9,10 @@ class ControllerCommonHead extends Controller
 
         $this->data['heading_title'] = $this->config->get('config_title');
 
-        if (file_exists(DIR_TEMPLATE . $this->config->get('config_template') . '/template/common/head.tpl')) {
-            $this->template = $this->config->get('config_template') . '/template/common/head.tpl';
+        if (file_exists(DIR_TEMPLATE . $this->config->get('config_template') . '/template/common/header.tpl')) {
+            $this->template = $this->config->get('config_template') . '/template/common/header.tpl';
         } else {
-            $this->template = 'default/template/common/head.tpl';
+            $this->template = 'default/template/common/header.tpl';
         }
         $this->response->setOutput($this->render());
     }
