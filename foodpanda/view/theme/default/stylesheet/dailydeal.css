@@ -1,0 +1,359 @@
+.prod_brief{
+	border-bottom: 1px solid #DDD;
+	margin-bottom: 60px;
+}
+.btn-dailydeal{
+	float: left;
+}
+.btn-dailydeal-1{
+	margin-top: 0px!important;
+	margin-right: 5px!important;
+	background: #f7f7f7!important;
+	color: #333!important;
+	padding: 0!important;
+	width: 110px!important;
+	-webkit-border-radius: 5px!important;
+	-moz-border-radius: 5px!important;
+	border-radius: 3px!important;
+	border: 1px solid #ddd!important;
+}
+.btn-dailydeal-1 span{
+	font-size: 11px!important;
+	text-transform: capitalize!important;
+}
+.i-cartFastLane-dailydeal{
+	background: url("../image/icon-dailydeal.png") no-repeat 0 0!important;
+	margin-top: 12px;
+	margin-left: 5px;
+}
+
+.product-leadtime{
+	padding-top: 1px;
+}
+.product-leadtime__title{
+	margin-top: 10px;
+	text-align: center;
+}
+.product-leadtime__title:before{
+	content: "";
+	width: 55px;
+	background: #BDBBBB;
+	height: 1px;
+	position: absolute;
+	display: inherit;
+	top: 19px;
+}
+.product-leadtime__title:after{
+	content: "";
+	width: 55px;
+	background: #BDBBBB;
+	height: 1px;
+	position: absolute;
+	display: inherit;
+	top: 19px;
+	right: 14px;
+}
+#prodinfo .prod_r_content{
+	background: #f2f2f2!important;
+	border: 1px solid;
+	border-color: #ddd;
+}
+.product-leadtime{
+	background: #f2f2f2;
+}
+.icon-promotion1{
+	background: url(../image/icon-promotion1l.png);
+	position: absolute;
+	width: 23px;
+	height: 22px;
+	left: -2px;
+	top: -3px;
+}
+.product__promotion__item{
+	margin-bottom: 10px;
+}
+.product__promotion__item .product__promotion__item__text{
+	margin-left: 10px;
+}
+.icon-promotion2{
+	background: url(../image/icon-promotion2.png);
+	position: absolute;
+	width: 23px;
+	height: 22px;
+	left: -2px;
+	top: -3px;
+}
+.icon-promotion3{
+	background: url(../image/icon-promotion3.png);
+	position: absolute;
+	width: 23px;
+	height: 22px;
+	left: -2px;
+	top: -3px;
+}
+.clock{
+	margin-bottom: 20px;
+}
+.product__promotion{
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 8px;
+}
+.fb-daily{
+	margin-top: 10px;
+	cursor: pointer;
+}
+#prodinfo{
+	height: 320px!important;
+}
+.prd-moreImages{
+	height: 305px;
+}
+.menu-dailydeal{
+	height: 34px;
+	border-bottom: 2px solid #b4b4b4;
+	background: #f3f3f3;
+	clear: both;
+}
+.menu-dailydeal ul{
+	height: 34px;
+	padding-left: 10px;
+	position: relative;
+}
+.menu-dailydeal ul li{
+	float: left;
+	border-right: 2px solid #d6d6d6;
+	padding-right: 10px;
+	margin-right: 10px;
+	margin-top: 8px;
+}
+.menu-dailydeal ul li a{
+	font-weight: bold;
+	font-size: 12px;
+}
+.menu-dailydeal ul li a:hover{
+	text-decoration: none;
+	color:#fab193; 
+}
+.content-dailydeal{
+	margin-top: 20px;
+}
+.content-dailydeal ul li{
+	position: relative;
+	width: 389px;
+	height: 260px;
+	background: #FFF;
+	border: 1px solid #e9e9e9;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.content-dailydeal ul li.deal-max{
+	width: 786px;
+}
+.content-dailydeal ul li img{
+	float: left;
+    margin-left: 20px;
+    margin-top: 29px;
+    width: 160px;
+    height: 160px;
+}
+.content-dailydeal ul li .text-content{
+	float: right;
+	margin-right: 15px;
+	margin-top: 24px;
+}
+.content-dailydeal ul li .text-content h4{
+	font-weight: normal;
+    font-size: 16px;
+    width: 150px;
+}
+.bottom-ct{
+	margin-top: 60px;
+}
+.bottom-ct .prices{
+	text-decoration: line-through;
+}
+.bottom-ct .price{
+	font-weight: bold;
+	font-size: 15px;
+}
+.dt-daily{
+	display: block;
+	width: 79px;
+	height: 24px;
+	line-height: 24px;
+	background: #f4701f;
+	color: #FFF;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 6px;
+}
+.bottom-ct p.ok{
+	color: #71686a;
+	font-size: 11px;
+}
+.ships-dt{
+	position: absolute;
+	bottom: 10px;
+	left: 40px;
+	color: #58a654;
+	font-style: italic;
+	font-size: 12px;
+}
+.ships-dt:after{
+	content: "";
+	background: url(../image/icon-shipsl.png) no-repeat;
+	width: 20px;
+	height: 18px;
+	position: absolute;
+	top: -2px;
+	left: -23px;
+}
+.content-dailydeal ul li.deal-max img.bn-times{
+	margin: 0;
+	float: right;
+	margin-right: 51px;
+    width: 150px;
+    height: 135px;
+}
+.content-dailydeal ul li.deal-max .text-content{
+	float: left;
+	margin-left: 90px;
+}
+li.tab1 a{
+	color: #fab193;
+}
+li.tab1:before{
+	content: "";
+	background: url(../image/mt-tabl.png) no-repeat;
+	position: absolute;
+	width: 22px;
+	height: 8px;
+	top: 25px;
+	left: 55px;
+}
+
+#getting-started{
+	position: relative;
+	z-index: 20;
+	background: url(../image/bg-timer-v1.png) 30px 5px no-repeat #264a5f;
+	padding: 17px 5px 15px 85px;
+	border: 1px solid #fff;
+	box-shadow: 0 0 3px #888;
+	-webkit-box-shadow: 0 0 3px #888;
+	width: 229px;
+	height: 68px;
+	margin: 10px 0;
+	font-size: 25px;
+	padding-right: 16px;
+	color: #fff;
+	line-height: 35px;
+	text-align: center;
+}
+.n-time{
+	position: absolute;
+	top: 86px;
+	z-index: 99;
+	color: #fff;
+	left: 108px;
+	font-size: 10px;
+	margin-top: 2px;
+}
+.discount {
+	display: block;
+	width: 95px;
+	height: 93px;
+	color: #fff;
+	text-align: center;
+	position: absolute;
+	z-index: 9;
+	right: 43px;
+	top: 1px;
+	background: #b70000;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	font-size: 38px;
+	font-wright: bold;
+	padding: 21px 0 0 0;
+}
+.discount-min {
+	display: block;
+	width: 37px;
+	height: 37px;
+	color: #fff;
+	text-align: center;
+	position: absolute;
+	z-index: 9;
+	right: 217px;
+	top: 26px;
+	background: #b70000;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	font-size: 12px;
+	font-wright: bold;
+	padding: 13px 0 0 0;
+}
+.deal-max .discount-min{
+    width: 60px;
+    height: 60px;
+    top: 10px;
+    left: 133px;
+    padding: 18px 0px;
+    font-size: 18px;
+}
+#getting-starteds, #getting-starteds2{
+	background: url(../image/bg-timer-1.png) 0 0 no-repeat;
+	color: #3f3f3f;
+	font-size: 22px;
+	height: 60px;
+	line-height: 48px;
+	padding-left: 56px;
+	margin-right: 29px;
+	padding-right: 27px;
+}
+.times-min{
+	float: right;
+	margin-top: 20px;
+}
+.header__cart__items{
+	min-width: 17px;
+}
+.total-cart-detail .icon{
+	background: url("../image/gh.png") no-repeat 0 0!important;
+	vertical-align: text-top;
+	display: inline-block;
+	width: 28px;
+	height: 20px;
+}
+#thumblist{
+	float: left;
+}
+.thumb-pri{
+	float: right;
+	margin-right: 577px;
+}
+#thumblist li img{
+	width: 44px;
+	height: 44px;
+	margin-bottom: 10px;
+}
+ul#thumblist li a{
+	margin-left: 20px;
+}
+ul#thumblist li a.zoomThumbActive {
+	border: 1px solid #333;
+	display: block;
+	margin-left: 20px;
+}
+.find-foods1{
+	position: absolute;
+	right: 218px;
+	top: 10px;
+	font-size: 30px;
+}
+.btn-find-foods1{
+	margin-left: 0px!important;
+}
