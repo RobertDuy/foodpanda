@@ -1,5 +1,5 @@
 <?php
-class ModelCatalogProduct extends Model{
+class ModelDealProductDN extends Model{
 
     public function getDealDN($start, $limit){
         /**

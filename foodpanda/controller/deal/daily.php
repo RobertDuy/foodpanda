@@ -12,12 +12,34 @@ class ControllerDealDaily extends Controller {
             $this->template = 'default/template/deal/dailydeal.tpl';
         }
 
+        $this->load->model('deal/productDN');
+
+        $start = 0;
+        $limit = 30;
+        $data = $this->model_deal_productDN->getDealDN($start, $limit);
+        $this->data['daily_deal'] = $data;
+
         $this->children = array(
             'common/header',
             'common/footer'
         );
 
         $this->response->setOutput($this->render());
+    }
+
+    public function pagination(){
+        $this->load->model('deal/productDN');
+
+        $start = 0;
+        if(isset($_POST['start'])){
+          $start = $_POST['start'];
+        }
+        $limit = 30;
+        if(isset($_POST['limit'])){
+            $limit = $_POST['limit'];
+        }
+        $data = $this->model_deal_productDN->getDealDN($start, $limit);
+        $this->response->setOutput(json_encode($data));
     }
 }
 ?>
