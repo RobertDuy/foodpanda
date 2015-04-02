@@ -2,1343 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="047ac325-a253-450b-80f6-66b717882387" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ae.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/af.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ai.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/al.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/am.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/payment/amazon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/amazon_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/amazon_ok.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/amazon_pending.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/an.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/link/images/anchor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/skins/moono/images/arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/superfish/images/arrows-ffffff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/asc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/at.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/attention.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/au.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/aw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/backup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/banner2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/bb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/be.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-timer-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-timer-v1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/bh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/bj.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/bm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/bn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/box.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/br.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/bt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/btn-close.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/bv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/bw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/by.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/bz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/category.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/cc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/cf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/cg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ci.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ck.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/cl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/skins/moono/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/cm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/cn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/co.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/country.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/cr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/cs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/cu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/customer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/cv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/cy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/cz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/dailydea-imgl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/dailydeal-clock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/dailydeal-clock2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/de.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/desc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/detail-cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/detail-feature.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/dj.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/dk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/dm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/menu/images/door.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/themes/apple/dot_for_ie.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/themes/classic/dot_for_ie.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/dz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/ebay_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/ebay_nolink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/ebay_ok.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/ebay_pending.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ec.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/filemanager/edit-copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/filemanager/edit-cut.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/filemanager/edit-delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/filemanager/edit-paste.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/filemanager/edit-rename.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/eh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/england.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/er.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/es.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/et.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/fam.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/feed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/fi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/field.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/fj.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/fm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/filemanager/folder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/foodpanda.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/fr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/gb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ge.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/gg1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/gg10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/gg11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/gg12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/gg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/gg3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/gg4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/gg5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/gg6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/gg7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/gg8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/gg9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/gh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/gh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/gi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/gl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/gm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/gn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/gp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/gq.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/gs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/gt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/gu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/gw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/head_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/hk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/hn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/homepage-splash.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/hr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icn_general_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icn_general_2-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon-2322e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon-dailydeal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon-e7f18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon-ert.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon-promotion1l.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon-promotion2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon-promotion3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon-shipsl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/skins/moono/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/themes/apple/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/themes/checkbox/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/themes/themeroller/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/id.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/il.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/img1l.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/in.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/information.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/io.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ir.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/is.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/it.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/jm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/jo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ke.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ki.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/payment/klarna_banner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/km.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/kn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/kp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/kr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ky.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/kz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/language.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/layout.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/lb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/li.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/lk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/lock-open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/lockscreen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/log.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/login.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/logo-thuonghieutindung-footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/about/dialogs/logo_ckeditor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/lr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/lt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/lu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ly.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ma.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/mc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/md.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/mg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/mh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/skins/moono/images/mini.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/mk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ml.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/mo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/module.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/payment/moneybookers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/mp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ms.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/mt-tabl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/mt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/mu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/mv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/mw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/mx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/my.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/mz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ne.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/next-ic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ng.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/nl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/payment/nochex.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/image/images/noimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/np.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/nu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/nz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/om.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/openbay_icon1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/openbay_icon10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/openbay_icon11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/openbay_icon12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/openbay_icon13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/openbay_icon2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/openbay_icon3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/openbay_icon5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/openbay_icon6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/openbay_icon7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/openbay/openbay_icon8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/order.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p1-dailydeal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p10-dailydeal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p2-dailydeal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p3-dailydeal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p4-dailydeal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p5-dailydeal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p6-dailydeal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p7-dailydeal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p8-dailydeal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p9-dailydeal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/p9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/pa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/menu/images/page_white_copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/menu/images/page_white_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/menu/images/page_white_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/menu/images/page_white_paste.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/payment.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/payment/paypoint.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/pe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/pg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/pk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/pl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/pm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/pn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/pr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/prev-ic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/product.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/product.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ps.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/pt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/pw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/filemanager/refresh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/report.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/review.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ru.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/rw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/sa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/payment/sagepay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/sc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/scotland.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/se.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/seal_ctv_80_016032014.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/setting.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/sg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/sh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/superfish/images/shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/shipping.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/si.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/sk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/sl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/sm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/sn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/so.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/fakeobjects/images/spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/split.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/sprite-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/sprite-logo-v2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/sprite_2747fba143a2d9f2f31ab2196609db99.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/sprite_d97a72099a993a87ba4deb1cb5f8d3f4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/sr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/stars.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/sticker-2001-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/sv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/tab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/tax.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/tc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/td.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/tf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/tg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/th.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/themes/apple/throbber.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/themes/default/throbber.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/themes/themeroller/throbber.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/tk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/tn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/to.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/total.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/tr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/transparent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/tt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/tv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/tw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/tz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ua.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/images/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/images/ui-icons_888888_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/images/ui-icons_ffd27a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/um.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/filemanager/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/us.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/uy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/uz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/va.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/vc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/vg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/vn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/vu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/wales.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/wf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/payment/wps-logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/ye.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/za.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/image/flags/zm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/zoomloader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/CHANGES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/plugins/_jquery.tree.rtl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/about/dialogs/about.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/module/account.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/account.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/sale/affiliate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/mail/affiliate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/affiliate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/report/affiliate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/sale/affiliate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/affiliate.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/affiliate_commission.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/report/affiliate_commission.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/report/affiliate_commission.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/affiliate_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/affiliate_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/affiliate_transaction.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ajaxupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/javascript/alice-dt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/openbay/amazon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazon_bulk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazon_bulk_linking.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazon_bulk_listing.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/amazon_checkout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/amazon_checkout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/payment/amazon_checkout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/amazon_checkout.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/amazon_checkout_layout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/amazon_checkout_layout.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/amazon_checkout_order.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/openbay/amazon_listing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/openbay/amazon_listing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazon_listing.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazon_listing_advanced.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazon_listing_edit.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazon_listingsaved.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazon_overview.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazon_overview.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/openbay/amazon_patch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/openbay/amazon_product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazon_saved_listings.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazon_settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazon_settings.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazon_stock_updates.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazon_stockupdates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazon_subscription.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/openbay/amazonus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazonus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/openbay/amazonus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazonus_bulk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazonus_bulk_linking.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazonus_bulk_listing.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazonus_links.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/openbay/amazonus_listing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/openbay/amazonus_listing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazonus_listing.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazonus_listing_advanced.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazonus_listing_edit.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazonus_listingsaved.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazonus_overview.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/openbay/amazonus_patch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/openbay/amazonus_product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazonus_saved_listings.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazonus_settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazonus_settings.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/amazonus_stockupdates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/amazonus_subscription.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/theme/ambiance-mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/theme/ambiance.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/link/dialogs/anchor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/attribute.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/catalog/attribute.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/catalog/attribute.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/attribute_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/attribute_group.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/attribute_group_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/attribute_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/shipping/auspost.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/shipping/auspost.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/shipping/auspost.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/authorizenet_aim.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/authorizenet_aim.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/authorizenet_sim.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/authorizenet_sim.php_" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/tool/backup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/tool/backup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/tool/backup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/tool/backup.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/bank_transfer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/bank_transfer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/bank_transfer.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/design/banner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/design/banner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/banner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/design/banner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/banner.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/design/banner_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/module/bestseller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/bestseller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/bestseller.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/theme/blackboard.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/bn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/javascript/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/javascript/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/bs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/bs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/build-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/module/carousel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/carousel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/carousel.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/module/category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/catalog/category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/category.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/category_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/category_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/cheque.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/cheque.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/cheque.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/shipping/citylink.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/shipping/citylink.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/shipping/citylink.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/theme/cobalt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/cod.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/cod.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/cod.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/css/codemirror.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/stylesheet/codemirror.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/codemirror.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/util/colorize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/sale/contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/contact.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/contents.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/util/continuecomment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/country.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/localisation/country.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/country_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/total/coupon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/total/coupon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/report/coupon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/sale/coupon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/total/coupon.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/coupon_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/coupon_history.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/coupon_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/total/credit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/total/credit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/total/credit.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/currency.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/localisation/currency.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/localisation/currency.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/currency_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/currency_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/design/custom_field.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/design/custom_field.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/design/custom_field.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/design/custom_field_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/sale/customer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/sale/customer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/report/customer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/sale/customer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/sale/customer_ban_ip.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/sale/customer_ban_ip.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/customer_ban_ip_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/customer_ban_ip_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/customer_credit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/report/customer_credit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/report/customer_credit.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/sale/customer_group.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/sale/customer_group.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/sale/customer_group.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/customer_group_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/customer_group_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/customer_history.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/customer_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/customer_online.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/report/customer_online.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/report/customer_online.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/report/customer_order.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/report/customer_order.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/customer_reward.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/report/customer_reward.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/report/customer_reward.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/customer_reward.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/controller/deal/daily.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/dailydeal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/pastefromword/filter/default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/extension/default.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/detail.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/detail2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/util/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/skins/moono/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/dialog/dialogDefinition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/skins/moono/dialog_ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/skins/moono/dialog_ie8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/skins/moono/dialog_opera.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/dkdn.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/download.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/catalog/download.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/catalog/download.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/download_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/ebay_edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_edit.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_item_import.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_item_link.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/ebay_links.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/ebay_new.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_new.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_new_bulk.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/ebay_newbulk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/ebay_overview.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_overview.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/openbay/ebay_patch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/openbay/ebay_product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/openbay/ebay_profile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/ebay_profile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/openbay/ebay_profile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_profile_form_generic.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_profile_form_returns.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_profile_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/ebay_settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_settings.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/ebay_subscription.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_subscription.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/ebay_summary.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_summary.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/ebay_syncronise.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_syncronise.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/openbay/ebay_template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/ebay_template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/openbay/ebay_template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_template_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/ebay_template_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/module/ebaydisplay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/ebaydisplay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/ebaydisplay.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/skins/moono/editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/skins/moono/editor_ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/skins/moono/editor_ie8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/theme/elegant.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/en-au.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/en-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/en-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/en-gb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/english.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/theme/erlang-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/tool/error_log.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/tool/error_log.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/excanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/excanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/setting/extension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/openbay/faq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/module/featured.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/featured.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/featured.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/shipping/fedex.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/shipping/fedex.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/extension/feed.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/common/filemanager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/catalog/filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/catalog/filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/filter.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/filter_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/filter_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/shipping/flat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/shipping/flat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/fo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/fo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/util/foldcode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/common/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/common/footer.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/forgotten.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/common/forgotten.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/mail/forgotten.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/fr-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/fr-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/sale/fraud.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/shipping/free.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/shipping/free.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/shipping/free.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/free_checkout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/free_checkout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/free_checkout.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/localisation/geo_zone.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/localisation/geo_zone.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/geo_zone_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/geo_zone_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/feed/google_base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/feed/google_base.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/google_checkout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/google_checkout.php_" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/feed/google_sitemap.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/google_talk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/google_talk.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/gu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/total/handling.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/total/handling.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/total/handling.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/controller/common/head.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/template/common/head.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/common/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/common/header.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/home.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/common/home.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/superfish/js/hoverIntent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/htmlmixed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/image/dialogs/image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/tool/image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/information.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/module/information.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/catalog/information.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/information.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/information.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/information_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/stylesheet/invoice.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/shipping/item.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/shipping/item.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/util/javascript-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/superfish/js/jquery-1.2.6.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/javascript/jquery-1.6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/javascript/jquery-1.8.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/javascript/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/jquery-ui-timepicker-addon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/external/jquery.bgiframe-2.1.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/superfish/js/jquery.bgiframe.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.colorhelpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.colorhelpers.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/lib/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/javascript/jquery.countdown.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.effects.blind.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.effects.bounce.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.effects.clip.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.effects.core.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.effects.drop.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.effects.explode.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.effects.fade.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.effects.pulsate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.effects.scale.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.effects.shake.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.effects.slide.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.effects.transfer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.crosshair.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.crosshair.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.image.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.navigate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.navigate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.pie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.resize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.selection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.selection.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.stack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.stack.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.symbol.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.threshold.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.flot.threshold.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/javascript/jquery.jqzoom-core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/jquery.jqzoom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/lib/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/menu/jquery.menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/lib/jquery.metadata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/external/jquery.metadata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/flot/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/plugins/jquery.tree.checkbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/plugins/jquery.tree.contextmenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/plugins/jquery.tree.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/plugins/jquery.tree.hotkeys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/jquery.tree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/plugins/jquery.tree.metadata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/jquery.tree.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/plugins/jquery.tree.xml_flat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/plugins/jquery.tree.xml_nested.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/jquery.ui.accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/jquery.ui.accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.accordion.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/jquery.ui.all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/jquery.ui.all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/jquery.ui.autocomplete.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.autocomplete.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/jquery.ui.base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/jquery.ui.base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/jquery.ui.button.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/jquery.ui.button.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/jquery.ui.core.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.core.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-ar-DZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-bs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-en-AU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-en-NZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-fo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-fr-CH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-hy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-ml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-rm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-sq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-sr-SR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-ta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-zh-HK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/i18n/jquery.ui.datepicker-zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/jquery.ui.datepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/jquery.ui.datepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.datepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.dialog.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.draggable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.droppable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.mouse.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.position.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/jquery.ui.progressbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.progressbar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/jquery.ui.resizable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/jquery.ui.resizable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.resizable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/jquery.ui.selectable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/jquery.ui.selectable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/jquery.ui.slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/jquery.ui.slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.slider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.sortable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/jquery.ui.tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/jquery.ui.tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.tabs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/base/jquery.ui.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/themes/ui-lightness/jquery.ui.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/minified/jquery.ui.widget.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/klarna_account.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/klarna_account.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/klarna_account.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/total/klarna_fee.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/total/klarna_fee.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/klarna_invoice.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/klarna_invoice.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/ku.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/ku.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/ku.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/language.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/localisation/language.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/language_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/language_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/latest.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/design/layout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/design/layout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/design/layout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/design/layout_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/design/layout_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/length_class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/localisation/length_class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/localisation/length_class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/link/dialogs/link.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/liqpay.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/util/loadmode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/common/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/common/login.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/logout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/total/low_order_fee.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/total/low_order_fee.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/total/low_order_fee.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/manager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/extension/manager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/extension/manager.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/manufacturer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/catalog/manufacturer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/catalog/manufacturer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/manufacturer_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/util/matchbrackets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/mn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/moneybookers.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/moneybookers.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/moneybookers.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/theme/monokai.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/util/multiplex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/theme/night.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/nochex.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/nochex.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/error/not_found.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/error/not_found.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/error/not_found.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/javascript/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/report/online.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/stylesheet/openbay.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/openbay/openbay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/openbay/openbay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/extension/openbay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/extension/openbay.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/openbay/openbay_itemlist.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/openbay_links.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/extension/openbay_order.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/openbay/openbay_orderlist_confirm.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/module/openbaypro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/openbaypro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/openbaypro.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/option.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/catalog/option.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/catalog/option.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/option_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/option_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/sale/order.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/mail/order.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/sale/order.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/openbay/order.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/sale/order.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/order_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/order_invoice.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/order_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/order_status.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/localisation/order_status.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/order_status_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/util/overlay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/javascript/owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/owl.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/shipping/parcelforce_48.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/shipping/parcelforce_48.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/shipping/parcelforce_48.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/clipboard/dialogs/paste.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/paymate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/paymate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/paymate.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/extension/payment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/extension/payment.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/paypoint.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/paypoint.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/paypoint.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/payza.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/error/permission.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/error/permission.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/perpetual_payments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/perpetual_payments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/perpetual_payments.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/php.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/shipping/pickup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/shipping/pickup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/shipping/pickup.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/util/pig-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/pp_express.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/pp_express.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/payment/pp_express.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/pp_express.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/pp_express_order.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/pp_express_order.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/pp_express_refund.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/pp_express_refund.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/pp_express_search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/pp_express_search.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/pp_express_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/pp_express_view.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/module/pp_layout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/pp_layout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/pp_layout.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/pp_payflow_iframe.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/pp_payflow_iframe.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/payment/pp_payflow_iframe.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/pp_payflow_iframe.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/pp_payflow_iframe_order.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/pp_payflow_iframe_refund.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/pp_pro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/pp_pro_iframe.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/pp_pro_iframe.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/payment/pp_pro_iframe.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/pp_pro_iframe.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/pp_pro_iframe_order.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/pp_pro_iframe_transaction.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/pp_pro_pf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/pp_pro_pf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/pp_pro_pf.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/pp_pro_uk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/pp_pro_uk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/pp_pro_uk.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/pp_standard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/pp_standard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/pp_standard.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/catalog/product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/catalog/product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/report/product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/product_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/product_purchased.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/report/product_purchased.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/product_viewed.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/report/product_viewed.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/report/product_viewed.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/profile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/catalog/profile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/profile_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/profile_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/psigate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/external/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/ui/external/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/skins/moono/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/sale/recurring.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/sale/recurring.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/sale/recurring.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/recurring_info.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/recurring_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/reset.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/sale/return.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/mail/return.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/sale/return.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/report/return.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/localisation/return_action.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/return_action_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/return_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/return_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/return_reason.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/localisation/return_reason.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/localisation/return_reason.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/return_reason_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/return_status.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/localisation/return_status.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/localisation/return_status.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/review.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/catalog/review.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/catalog/review_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/total/reward.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/total/reward.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/total/reward.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/shipping/royal_mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/shipping/royal_mail.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/theme/rubyblue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/util/runmode-standalone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/sagepay.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/sagepay_direct.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/sagepay_direct.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/sagepay_direct.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/sagepay_us.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/report/sale.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/sale_coupon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/report/sale_coupon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/report/sale_coupon.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/report/sale_order.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/report/sale_order.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/report/sale_return.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/report/sale_return.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/sale_shipping.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/report/sale_shipping.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/report/sale_shipping.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/sale_tax.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/report/sale_tax.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/report/sale_tax.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/lib/sarissa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/util/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/util/searchcursor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/setting/setting.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/setting/setting.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/setting/setting.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/setting/setting.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/total/shipping.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/total/shipping.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/js/util/simple-hint.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/module/slideshow.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/slideshow.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/special.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/module/special.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/specialchar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/sr-latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/stock_status.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/localisation/stock_status.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/localisation/stock_status.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/stock_status_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/stock_status_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/module/store.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/setting/store.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/store.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/setting/store.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/setting/store.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/setting/store_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/setting/store_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/themes/apple/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/themes/checkbox/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/themes/classic/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/themes/default/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/themes/image/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jstree/themes/themeroller/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/styles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/stylesheet/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/total/sub_total.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/total/sub_total.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/total/sub_total.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/superfish/css/superfish-navbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/superfish/css/superfish-vertical.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/superfish/css/superfish.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/superfish/js/supersubs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/tabletools/dialogs/tableCell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/total/tax.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/total/tax.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/total/tax.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/tax_class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/localisation/tax_class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/tax_class_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/tax_class_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/tax_rate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/localisation/tax_rate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/tax_rate_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/tax_rate_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodpanda/view/javascript/template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/total.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/extension/total.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/total/total.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/extension/total.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/total/total.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/theme/twilight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/twocheckout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/twocheckout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/twocheckout.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/ug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/specialchar/dialogs/lang/ug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/shipping/ups.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/shipping/ups.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/user/user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/user/user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/user/user_group.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/user/user_group_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/user/user_group_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/user/user_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/user/user_permission.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/shipping/usps.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/shipping/usps.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/shipping/usps.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/openbay/version.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/theme/vibrant-ink.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/sale/voucher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/mail/voucher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/sale/voucher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/sale/voucher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/mail/voucher.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/voucher_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/sale/voucher_theme.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/voucher_theme_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/sale/voucher_theme_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/web_payment_software.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/web_payment_software.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/shipping/weight.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/weight_class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/localisation/weight_class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/weight_class_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/weight_class_list.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/module/welcome.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/welcome.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/payment/worldpay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/payment/worldpay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/payment/worldpay.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/theme/xq-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/lang/zh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/javascript/ckeditor/plugins/codemirror/lang/zh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/zone.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/localisation/zone.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/model/localisation/zone.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/zone_form.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/view/template/localisation/zone_list.tpl" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test test" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="foodpanda.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1364,39 +28,8 @@
       <file leaf-file-name="dailydeal.tpl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="483" column="44" selection-start="35107" selection-end="35107" vertical-scroll-proportion="-10.962963" vertical-offset="8398" max-vertical-offset="16128">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#span#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#1;n#span#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#2;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="483" column="30" selection-start="35415" selection-end="35415" vertical-scroll-proportion="0.0" vertical-offset="8694" max-vertical-offset="16542">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1404,7 +37,7 @@
       <file leaf-file-name="jquery.jqzoom-core.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/foodpanda/view/javascript/jquery.jqzoom-core.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="310" column="14" selection-start="12970" selection-end="12970" vertical-scroll-proportion="0.36483255" vertical-offset="4933" max-vertical-offset="12942">
+            <state line="342" column="14" selection-start="14243" selection-end="14243" vertical-scroll-proportion="0.271777" vertical-offset="5580" max-vertical-offset="12942">
               <folding />
             </state>
           </provider>
@@ -1413,7 +46,7 @@
       <file leaf-file-name="daily.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/foodpanda/controller/deal/daily.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="39" selection-start="591" selection-end="591" vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="504">
+            <state line="11" column="39" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="504">
               <folding />
             </state>
           </provider>
@@ -1422,7 +55,7 @@
       <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="9" selection-start="0" selection-end="816" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="522">
+            <state line="12" column="9" selection-start="0" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="522">
               <folding />
             </state>
           </provider>
@@ -1431,7 +64,7 @@
       <file leaf-file-name="home.tpl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/common/home.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="365" column="64" selection-start="248" selection-end="23921" vertical-scroll-proportion="-7.3333335" vertical-offset="6372" max-vertical-offset="14544">
+            <state line="365" column="64" selection-start="248" selection-end="23921" vertical-scroll-proportion="0.0" vertical-offset="6372" max-vertical-offset="14544">
               <folding />
             </state>
           </provider>
@@ -1500,7 +133,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1509,8 +141,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foodpanda" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foodpanda" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foodpanda" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foodpanda" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1552,15 +209,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1215" height="1000" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30624464" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31223267" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -1568,6 +224,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1589,9 +246,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30624464" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1611,46 +268,69 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/php.ini">
+    <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+        <state line="483" column="30" selection-start="35415" selection-end="35415" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="16542">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodpanda/view/javascript/jquery.jqzoom-core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="310" column="14" selection-start="12970" selection-end="12970" vertical-scroll-proportion="0.0" vertical-offset="5580" max-vertical-offset="12942">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodpanda/controller/deal/daily.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="39" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="504">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="9" selection-start="0" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="522">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/common/home.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="365" column="64" selection-start="248" selection-end="23921" vertical-scroll-proportion="0.0" vertical-offset="6372" max-vertical-offset="14544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="24" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/system/startup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="38" selection-start="285" selection-end="285" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="2034">
-          <folding />
-        </state>
+        <state line="12" column="38" selection-start="285" selection-end="285" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="2034" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/php.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="874">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="874" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3078">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3078" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/system/library/language.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="385" selection-end="385" vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="918">
-          <folding />
-        </state>
+        <state line="17" column="0" selection-start="385" selection-end="385" vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="918" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="31" selection-start="739" selection-end="739" vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="630">
-          <folding />
-        </state>
+        <state line="17" column="31" selection-start="739" selection-end="739" vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="630" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.php">
@@ -1662,109 +342,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/maintenance.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="38" selection-start="284" selection-end="284" vertical-scroll-proportion="-4.0" vertical-offset="54" max-vertical-offset="1116">
-          <folding />
-        </state>
+        <state line="9" column="38" selection-start="284" selection-end="284" vertical-scroll-proportion="-4.0" vertical-offset="54" max-vertical-offset="1116" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/language/vietnamese/vietnamese.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/model/catalog/country.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="35" selection-start="225" selection-end="225" vertical-scroll-proportion="57.62963" vertical-offset="1718" max-vertical-offset="2502">
-          <folding />
-        </state>
+        <state line="9" column="35" selection-start="225" selection-end="225" vertical-scroll-proportion="57.62963" vertical-offset="1718" max-vertical-offset="2502" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/model/catalog/product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="4" selection-start="1619" selection-end="1619" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="846">
-          <folding />
-        </state>
+        <state line="15" column="4" selection-start="1619" selection-end="1619" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="846" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="2" selection-start="700" selection-end="700" vertical-scroll-proportion="-13.333333" vertical-offset="0" max-vertical-offset="468">
-          <folding />
-        </state>
+        <state line="20" column="2" selection-start="700" selection-end="700" vertical-scroll-proportion="-13.333333" vertical-offset="0" max-vertical-offset="468" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="118296">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="118296" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/javascript/crossdomain.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="849">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="849" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/javascript/DD_belatedPNG_0.0.8a-min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="836">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="836" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/javascript/alice-dt.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="20" selection-start="977" selection-end="977" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="344466">
-          <folding />
-        </state>
+        <state line="21" column="20" selection-start="977" selection-end="977" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="344466" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/bootstrap.css.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="757">
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="sourcemapFileViewerProvider">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="757" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/common/footer.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="47" selection-start="1003" selection-end="1003" vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="5490">
-          <folding>
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
+        <state line="17" column="47" selection-start="1003" selection-end="1003" vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="5490" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/common/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="6" selection-start="1331" selection-end="1331" vertical-scroll-proportion="-24.666666" vertical-offset="0" max-vertical-offset="774">
-          <folding>
-            <element signature="n#style#0;n#a#0;n#li#0;n#ol#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
+        <state line="37" column="6" selection-start="1331" selection-end="1331" vertical-scroll-proportion="-24.666666" vertical-offset="0" max-vertical-offset="774" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="0" selection-end="700" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="468">
-          <folding />
-        </state>
+        <state line="10" column="0" selection-start="0" selection-end="700" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="468" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/head.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="-5.3333335" vertical-offset="0" max-vertical-offset="468">
-          <folding />
-        </state>
+        <state line="8" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="-5.3333335" vertical-offset="0" max-vertical-offset="468" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/image/icon.png">
@@ -1774,82 +420,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="414" column="17" selection-start="243816" selection-end="243816" vertical-scroll-proportion="0.0" vertical-offset="7242" max-vertical-offset="14832">
-          <folding>
-            <element signature="e#95311#95580#2" expanded="true" />
-          </folding>
-        </state>
+        <state line="414" column="17" selection-start="243816" selection-end="243816" vertical-scroll-proportion="0.0" vertical-offset="7242" max-vertical-offset="14832" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/common/head.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="4" selection-start="1217" selection-end="1304" vertical-scroll-proportion="0.38848922" vertical-offset="0" max-vertical-offset="834">
-          <folding />
-        </state>
+        <state line="18" column="4" selection-start="1217" selection-end="1304" vertical-scroll-proportion="0.38848922" vertical-offset="0" max-vertical-offset="834" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/common/home.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="365" column="64" selection-start="248" selection-end="23921" vertical-scroll-proportion="-7.3333335" vertical-offset="6372" max-vertical-offset="14544">
+        <state line="365" column="64" selection-start="248" selection-end="23921" vertical-scroll-proportion="0.0" vertical-offset="6372" max-vertical-offset="14544">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="9" selection-start="0" selection-end="816" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="522">
+        <state line="12" column="9" selection-start="0" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="522">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/deal/daily.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="39" selection-start="591" selection-end="591" vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="504">
+        <state line="11" column="39" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="504">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="483" column="44" selection-start="35107" selection-end="35107" vertical-scroll-proportion="-10.962963" vertical-offset="8398" max-vertical-offset="16128">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#span#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#span#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#2;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="483" column="30" selection-start="35415" selection-end="35415" vertical-scroll-proportion="0.0" vertical-offset="8694" max-vertical-offset="16542">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/javascript/jquery.jqzoom-core.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="310" column="14" selection-start="12970" selection-end="12970" vertical-scroll-proportion="0.36483255" vertical-offset="4933" max-vertical-offset="12942">
+        <state line="342" column="14" selection-start="14243" selection-end="14243" vertical-scroll-proportion="0.271777" vertical-offset="5580" max-vertical-offset="12942">
           <folding />
         </state>
       </provider>
