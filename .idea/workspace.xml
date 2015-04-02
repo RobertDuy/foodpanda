@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="047ac325-a253-450b-80f6-66b717882387" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/thumbs/triumph_thumb1.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/thumbs/triumph_thumb1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/thumbs/triumph_thumb2.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/thumbs/triumph_thumb2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/thumbs/triumph_thumb3.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/thumbs/triumph_thumb3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/triumph_big1.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/triumph_big1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/triumph_big2.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/triumph_big2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/triumph_big3.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/triumph_big3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/triumph_small1.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/triumph_small1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/triumph_small2.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/triumph_small2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/triumph_small3.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/triumph_small3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/config.php" afterPath="$PROJECT_DIR$/admin/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="foodpanda.iws" />
@@ -36,10 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="2" selection-start="1228" selection-end="1228" vertical-scroll-proportion="0.7012987" vertical-offset="0" max-vertical-offset="847">
+            <state line="17" column="32" selection-start="622" selection-end="622" vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="702">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="14" selection-start="39" selection-end="39" vertical-scroll-proportion="0.042402826" vertical-offset="0" max-vertical-offset="849">
               <folding />
             </state>
           </provider>
@@ -83,6 +82,7 @@
         <option value="$PROJECT_DIR$/db/modify_db.sql" />
         <option value="$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl" />
         <option value="$PROJECT_DIR$/admin/config.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -147,7 +147,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="system" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -570,7 +570,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="2" selection-start="1228" selection-end="1228" vertical-scroll-proportion="0.7012987" vertical-offset="0" max-vertical-offset="847">
+        <state line="17" column="32" selection-start="622" selection-end="622" vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="702">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="14" selection-start="39" selection-end="39" vertical-scroll-proportion="0.042402826" vertical-offset="0" max-vertical-offset="849">
           <folding />
         </state>
       </provider>
