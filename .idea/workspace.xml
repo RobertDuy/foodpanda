@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="047ac325-a253-450b-80f6-66b717882387" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/modify_db.sql" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/foodpanda/model/catalog/country.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/cache/cache.language.1404439738" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/cache/cache.store.1427878659" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/thumbs/triumph_thumb1.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/thumbs/triumph_thumb1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/thumbs/triumph_thumb2.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/thumbs/triumph_thumb2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/thumbs/triumph_thumb3.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/thumbs/triumph_thumb3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/triumph_big1.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/triumph_big1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/triumph_big2.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/triumph_big2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/triumph_big3.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/triumph_big3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/triumph_small1.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/triumph_small1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/triumph_small2.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/triumph_small2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/image/imgProd/triumph_small3.jpg" afterPath="$PROJECT_DIR$/image/data/imgProd/triumph_small3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/config.php" afterPath="$PROJECT_DIR$/admin/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl" afterPath="$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="foodpanda.iws" />
@@ -29,58 +36,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tripdeal_P08072014.sql" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/tripdeal_P08072014.sql">
+      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2373" column="32" selection-start="96866" selection-end="96866" vertical-scroll-proportion="-3.8823528" vertical-offset="42384" max-vertical-offset="137088">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="modify_db.sql" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/modify_db.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+            <state line="33" column="2" selection-start="1228" selection-end="1228" vertical-scroll-proportion="0.7012987" vertical-offset="0" max-vertical-offset="847">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="50" selection-start="703" selection-end="703" vertical-scroll-proportion="-10.666667" vertical-offset="0" max-vertical-offset="630">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="30" selection-start="164" selection-end="164" vertical-scroll-proportion="0.15328467" vertical-offset="0" max-vertical-offset="822">
+            <state line="10" column="49" selection-start="165" selection-end="290" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="684">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="product.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/foodpanda/model/catalog/product.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="56" selection-start="0" selection-end="2812" vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="846">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="product_dn.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/foodpanda/model/deal/product_dn.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="5" selection-start="848" selection-end="848" vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="450">
-              <folding>
-                <marker date="1427969898604" expanded="true" signature="655:658" placeholder="select * fro..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -99,7 +68,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/php.ini" />
-        <option value="$PROJECT_DIR$/admin/config.php" />
         <option value="$PROJECT_DIR$/config.php" />
         <option value="$PROJECT_DIR$/system/library/language.php" />
         <option value="$PROJECT_DIR$/foodpanda/view/theme/default/template/common/lib.tpl" />
@@ -111,9 +79,10 @@
         <option value="$PROJECT_DIR$/foodpanda/view/theme/default/template/common/head.tpl" />
         <option value="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/style.css" />
         <option value="$PROJECT_DIR$/foodpanda/controller/deal/daily.php" />
-        <option value="$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl" />
         <option value="$PROJECT_DIR$/foodpanda/model/deal/product_dn.php" />
         <option value="$PROJECT_DIR$/db/modify_db.sql" />
+        <option value="$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl" />
+        <option value="$PROJECT_DIR$/admin/config.php" />
       </list>
     </option>
   </component>
@@ -178,20 +147,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="image" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foodpanda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foodpanda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -202,12 +157,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../foodpanda_v2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image/data" />
       <recent name="$PROJECT_DIR$/image" />
       <recent name="$PROJECT_DIR$/foodpanda/view/javascript" />
       <recent name="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet" />
@@ -239,7 +195,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1215" height="1000" extended-state="7" />
+    <frame x="65" y="24" width="1215" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -248,7 +204,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31223267" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23011121" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -258,29 +214,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31223267" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -299,10 +235,76 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/db/tripdeal_P08072014.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2373" column="32" selection-start="96866" selection-end="96866" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="137088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/modify_db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="50" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="5" selection-start="843" selection-end="843" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="684">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodpanda/model/catalog/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="56" selection-start="0" selection-end="2812" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodpanda/model/deal/product_dn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="5" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="450">
+          <folding>
+            <marker date="1427969898604" expanded="true" signature="-1:-1" placeholder="select * fro..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="483" column="30" selection-start="35415" selection-end="35415" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="16542">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#span#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#span#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#2;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -329,9 +331,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/common/home.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="365" column="64" selection-start="248" selection-end="23921" vertical-scroll-proportion="0.0" vertical-offset="6372" max-vertical-offset="14544">
-          <folding />
-        </state>
+        <state line="365" column="64" selection-start="248" selection-end="23921" vertical-scroll-proportion="0.0" vertical-offset="6372" max-vertical-offset="14544" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/php.ini">
@@ -341,9 +341,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/system/startup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="38" selection-start="285" selection-end="285" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="2034">
-          <folding />
-        </state>
+        <state line="12" column="38" selection-start="285" selection-end="285" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="2034" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/php.ini">
@@ -443,9 +441,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/common/home.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="365" column="64" selection-start="248" selection-end="23921" vertical-scroll-proportion="0.0" vertical-offset="6372" max-vertical-offset="14544">
-          <folding />
-        </state>
+        <state line="365" column="64" selection-start="248" selection-end="23921" vertical-scroll-proportion="0.0" vertical-offset="6372" max-vertical-offset="14544" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/home.php">
@@ -462,13 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="483" column="30" selection-start="35415" selection-end="35415" vertical-scroll-proportion="0.0" vertical-offset="8694" max-vertical-offset="16542">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/javascript/jquery.jqzoom-core.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="346" column="8" selection-start="14347" selection-end="14347" vertical-scroll-proportion="0.0" vertical-offset="5364" max-vertical-offset="12942">
@@ -478,44 +467,110 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/model/catalog/product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="56" selection-start="0" selection-end="2812" vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="846">
+        <state line="6" column="56" selection-start="0" selection-end="2812" vertical-scroll-proportion="0.11510792" vertical-offset="12" max-vertical-offset="846">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/model/deal/product_dn.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="5" selection-start="848" selection-end="848" vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="450">
+        <state line="17" column="5" selection-start="848" selection-end="848" vertical-scroll-proportion="0.36690646" vertical-offset="0" max-vertical-offset="834">
           <folding>
-            <marker date="1427969898604" expanded="true" signature="655:658" placeholder="select * fro..." />
+            <marker date="1427969898604" expanded="true" signature="-1:-1" placeholder="select * fro..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controller/common/filemanager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="479" column="9" selection-start="13616" selection-end="13616" vertical-scroll-proportion="0.50359714" vertical-offset="8202" max-vertical-offset="9036">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/tripdeal_P08072014.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2373" column="32" selection-start="96866" selection-end="96866" vertical-scroll-proportion="-3.8823528" vertical-offset="42384" max-vertical-offset="137088">
+        <state line="2373" column="32" selection-start="96866" selection-end="96866" vertical-scroll-proportion="0.0" vertical-offset="42384" max-vertical-offset="137088">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/modify_db.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+        <state line="18" column="22" selection-start="0" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/gg4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/dailydeal-clock.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/bg-timer-v1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/bg-timer-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/fb.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/p9-dailydeal.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="611" column="41" selection-start="43265" selection-end="43265" vertical-scroll-proportion="-6.0740743" vertical-offset="10834" max-vertical-offset="16542">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#span#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#span#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#2;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="49" selection-start="165" selection-end="290" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="684">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="50" selection-start="703" selection-end="703" vertical-scroll-proportion="-10.666667" vertical-offset="0" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="30" selection-start="164" selection-end="164" vertical-scroll-proportion="0.15328467" vertical-offset="0" max-vertical-offset="822">
+        <state line="33" column="2" selection-start="1228" selection-end="1228" vertical-scroll-proportion="0.7012987" vertical-offset="0" max-vertical-offset="847">
           <folding />
         </state>
       </provider>

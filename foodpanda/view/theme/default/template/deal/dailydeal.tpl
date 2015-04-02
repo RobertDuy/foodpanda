@@ -605,16 +605,16 @@
                                 <div id="productZoom" data-zoom-image="http://static-02.lazada.vn/p/bep-gas-hong-ngoai-fujishi-fm-h07-en-8856-67739-1-zoom.jpg" style="opacity: 1; display: none; background-image: url(http://static-02.lazada.vn/p/bep-gas-hong-ngoai-fujishi-fm-h07-en-8856-67739-1-zoom.jpg); background-position: -361.858823529412px 0px;"></div>
                                 <div class="clearfix" id="content" >
                                     <div class="clearfix thumb-pri">
-                                        <a href="image/imgProd/triumph_big1.jpg" class="jqzoom" rel='gal1'  title="triumph" >
-                                            <img src="image/imgProd/triumph_small1.jpg"  title="triumph">
+                                        <a href="image/data/imgProd/triumph_big1.jpg" class="jqzoom" rel='gal1'  title="triumph" >
+                                            <img src="image/data/imgProd/triumph_small1.jpg"  title="triumph">
                                         </a>
                                     </div>
                                     <br/>
                                     <div class="clearfix thumb-list" >
                                         <ul id="thumblist" class="clearfix" >
-                                            <li><a class="zoomThumbActive" href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: './image/imgProd/triumph_small1.jpg',largeimage: './image/imgProd/triumph_big1.jpg'}"><img src='image/imgProd/thumbs/triumph_thumb1.jpg'></a></li>
-                                            <li><a href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: './image/imgProd/triumph_small2.jpg',largeimage: './image/imgProd/triumph_big2.jpg'}"><img src='image/imgProd/thumbs/triumph_thumb2.jpg'></a></li>
-                                            <li><a  href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: './image/imgProd/triumph_small3.jpg',largeimage: './image/imgProd/triumph_big3.jpg'}"><img src='image/imgProd/thumbs/triumph_thumb3.jpg'></a></li>
+                                            <li><a class="zoomThumbActive" href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: './image/data/imgProd/triumph_small1.jpg',largeimage: './image/data/imgProd/triumph_big1.jpg'}"><img src='image/data/imgProd/thumbs/triumph_thumb1.jpg'></a></li>
+                                            <li><a href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: './image/data/imgProd/triumph_small2.jpg',largeimage: './image/data/imgProd/triumph_big2.jpg'}"><img src='image/data/imgProd/thumbs/triumph_thumb2.jpg'></a></li>
+                                            <li><a  href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: './image/data/imgProd/triumph_small3.jpg',largeimage: './image/data/imgProd/triumph_big3.jpg'}"><img src='image/data/imgProd/thumbs/triumph_thumb3.jpg'></a></li>
                                         </ul>
                                     </div>
                                 </div>
