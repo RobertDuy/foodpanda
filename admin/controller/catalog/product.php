@@ -752,6 +752,45 @@ class ControllerCatalogProduct extends Controller {
 
 		$this->data['languages'] = $this->model_localisation_language->getLanguages();
 
+        // Add new value in edit view
+        if(isset($this->request->post['comment'])){
+            $this->data['comment'] = $this->request->post['comment'];
+        }elseif (!empty($product_info)){
+            $this->data['comment'] = $product_info['noidung'];
+            $this->data['date_comment'] = $product_info['date_comment'];
+        }else{
+            $this->data['comment'] = '';
+        }
+        if(isset($this->request->post['discount1'])){
+            $this->data['discount1'] = $this->request->post['discount1'];
+        }elseif (!empty($product_info)){
+            $this->data['discount1'] = $product_info['discount1'];
+        }else{
+            $this->data['discount1'] = '';
+        }
+        if(isset($this->request->post['num_sold'])){
+            $this->data['num_sold'] = $this->request->post['num_sold'];
+        }elseif (!empty($product_info)){
+            $this->data['num_sold'] = $product_info['num_sold'];
+        }else{
+            $this->data['num_sold'] = '';
+        }
+        if(isset($this->request->post['stock'])){
+            $this->data['stock'] = $this->request->post['stock'];
+        }elseif (!empty($product_info)){
+            $this->data['stock'] = $product_info['stock'];
+        }else{
+            $this->data['stock'] = '';
+        }
+        if(isset($this->request->post['rating'])){
+            $this->data['rating'] = $this->request->post['rating'];
+        }elseif (!empty($product_info)){
+            $this->data['rating'] = $product_info['rating'];
+        }else{
+            $this->data['rating'] = '';
+        }
+        // End add new value in edit view
+
 		if (isset($this->request->post['product_description'])) {
 			$this->data['product_description'] = $this->request->post['product_description'];
 		} elseif (isset($this->request->get['product_id'])) {

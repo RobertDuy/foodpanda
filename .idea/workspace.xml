@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="047ac325-a253-450b-80f6-66b717882387" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/foodpanda/model/deal/product_dn.php" afterPath="$PROJECT_DIR$/foodpanda/model/deal/productDN.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foodpanda/controller/deal/daily.php" afterPath="$PROJECT_DIR$/foodpanda/controller/deal/daily.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/modify_db.sql" afterPath="$PROJECT_DIR$/db/modify_db.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/controller/catalog/product.php" afterPath="$PROJECT_DIR$/admin/controller/catalog/product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/model/catalog/product.php" afterPath="$PROJECT_DIR$/admin/model/catalog/product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/view/template/catalog/product_form.tpl" afterPath="$PROJECT_DIR$/admin/view/template/catalog/product_form.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="foodpanda.iws" />
@@ -27,28 +29,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="daily.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/foodpanda/controller/deal/daily.php">
+      <file leaf-file-name="product.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/controller/catalog/product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="631" selection-end="631" vertical-scroll-proportion="0.28057554" vertical-offset="0" max-vertical-offset="900">
+            <state line="758" column="62" selection-start="29924" selection-end="29924" vertical-scroll-proportion="-9.62963" vertical-offset="13384" max-vertical-offset="26946">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/controller/common/home.php">
+      <file leaf-file-name="product.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/model/catalog/product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="38" selection-start="1062" selection-end="1062" vertical-scroll-proportion="-12.0" vertical-offset="0" max-vertical-offset="7362">
+            <state line="194" column="63" selection-start="12678" selection-end="12678" vertical-scroll-proportion="0.48441246" vertical-offset="3088" max-vertical-offset="13914">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="productDN.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/foodpanda/model/deal/productDN.php">
+      <file leaf-file-name="product_form.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/view/template/catalog/product_form.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="2" selection-start="852" selection-end="852" vertical-scroll-proportion="-12.666667" vertical-offset="0" max-vertical-offset="450">
+            <state line="231" column="20" selection-start="13665" selection-end="13665" vertical-scroll-proportion="-2.8965516" vertical-offset="3906" max-vertical-offset="25848">
+              <folding>
+                <marker date="1428059617248" expanded="false" signature="60152:60166" placeholder="..." />
+                <marker date="1428059617248" expanded="false" signature="69400:69425" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modify_db.sql" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/modify_db.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="34" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_list.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/view/template/catalog/product_list.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="33" selection-start="2985" selection-end="2985" vertical-scroll-proportion="-3.5172415" vertical-offset="540" max-vertical-offset="3978">
               <folding />
             </state>
           </provider>
@@ -78,13 +101,17 @@
         <option value="$PROJECT_DIR$/foodpanda/controller/common/head.php" />
         <option value="$PROJECT_DIR$/foodpanda/view/theme/default/template/common/head.tpl" />
         <option value="$PROJECT_DIR$/foodpanda/view/theme/default/stylesheet/style.css" />
-        <option value="$PROJECT_DIR$/db/modify_db.sql" />
         <option value="$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl" />
         <option value="$PROJECT_DIR$/admin/config.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/foodpanda/model/deal/product_dn.php" />
         <option value="$PROJECT_DIR$/foodpanda/model/deal/productDN.php" />
         <option value="$PROJECT_DIR$/foodpanda/controller/deal/daily.php" />
+        <option value="$PROJECT_DIR$/admin/view/template/catalog/aaa.tpl" />
+        <option value="$PROJECT_DIR$/db/modify_db.sql" />
+        <option value="$PROJECT_DIR$/admin/model/catalog/product.php" />
+        <option value="$PROJECT_DIR$/admin/view/template/catalog/product_form.tpl" />
+        <option value="$PROJECT_DIR$/admin/controller/catalog/product.php" />
       </list>
     </option>
   </component>
@@ -222,47 +249,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foodpanda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foodpanda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foodpanda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foodpanda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
+              <option name="myItemId" value="db" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -313,12 +300,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23438837" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18135159" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -326,11 +312,32 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18135159" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-    </layout>
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -349,53 +356,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/modify_db.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="450">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="50" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="5" selection-start="843" selection-end="843" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="684">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodpanda/model/catalog/product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="56" selection-start="0" selection-end="2812" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodpanda/model/deal/productDN.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="5" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="450">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="483" column="30" selection-start="35415" selection-end="35415" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="16542">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/javascript/jquery.jqzoom-core.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="310" column="14" selection-start="12970" selection-end="12970" vertical-scroll-proportion="0.0" vertical-offset="5580" max-vertical-offset="12942">
-          <folding />
-        </state>
+        <state line="310" column="14" selection-start="12970" selection-end="12970" vertical-scroll-proportion="0.0" vertical-offset="5580" max-vertical-offset="12942" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/deal/daily.php">
@@ -407,9 +370,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="9" selection-start="0" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="522">
-          <folding />
-        </state>
+        <state line="12" column="9" selection-start="0" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="522" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/common/home.tpl">
@@ -509,37 +470,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/javascript/jquery.jqzoom-core.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="346" column="8" selection-start="14347" selection-end="14347" vertical-scroll-proportion="0.0" vertical-offset="5364" max-vertical-offset="12942">
-          <folding />
-        </state>
+        <state line="346" column="8" selection-start="14347" selection-end="14347" vertical-scroll-proportion="0.0" vertical-offset="5364" max-vertical-offset="12942" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/model/catalog/product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="56" selection-start="0" selection-end="2812" vertical-scroll-proportion="0.11510792" vertical-offset="12" max-vertical-offset="846">
-          <folding />
-        </state>
+        <state line="6" column="56" selection-start="0" selection-end="2812" vertical-scroll-proportion="0.11510792" vertical-offset="12" max-vertical-offset="846" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/controller/common/filemanager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="479" column="9" selection-start="13616" selection-end="13616" vertical-scroll-proportion="0.50359714" vertical-offset="8202" max-vertical-offset="9036">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/tripdeal_P08072014.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2373" column="32" selection-start="96866" selection-end="96866" vertical-scroll-proportion="0.0" vertical-offset="42384" max-vertical-offset="137088">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/modify_db.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="0" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <folding />
-        </state>
+        <state line="479" column="9" selection-start="13616" selection-end="13616" vertical-scroll-proportion="0.50359714" vertical-offset="8202" max-vertical-offset="9036" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/image/gg4.png">
@@ -574,16 +515,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/view/theme/default/template/deal/dailydeal.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="611" column="41" selection-start="43265" selection-end="43265" vertical-scroll-proportion="-6.0740743" vertical-offset="10834" max-vertical-offset="16542">
-          <folding />
-        </state>
+        <state line="611" column="41" selection-start="43265" selection-end="43265" vertical-scroll-proportion="-6.0740743" vertical-offset="10834" max-vertical-offset="16542" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="7" selection-start="47" selection-end="47" vertical-scroll-proportion="-2.16" vertical-offset="0" max-vertical-offset="162">
-          <folding />
-        </state>
+        <state line="3" column="7" selection-start="47" selection-end="47" vertical-scroll-proportion="-2.16" vertical-offset="0" max-vertical-offset="162" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/config.php">
@@ -602,63 +539,110 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="0" selection-end="700" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="468">
-          <folding />
-        </state>
+        <state line="10" column="0" selection-start="0" selection-end="700" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="468" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/head.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="-5.3333335" vertical-offset="0" max-vertical-offset="468">
-          <folding />
-        </state>
+        <state line="8" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="-5.3333335" vertical-offset="0" max-vertical-offset="468" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="2" selection-start="700" selection-end="700" vertical-scroll-proportion="-13.333333" vertical-offset="0" max-vertical-offset="468">
-          <folding />
-        </state>
+        <state line="20" column="2" selection-start="700" selection-end="700" vertical-scroll-proportion="-13.333333" vertical-offset="0" max-vertical-offset="468" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/seo_url.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2160">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2160" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/maintenance.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="52" selection-start="440" selection-end="440" vertical-scroll-proportion="0.37824476" vertical-offset="0" max-vertical-offset="1116">
-          <folding />
-        </state>
+        <state line="17" column="52" selection-start="440" selection-end="440" vertical-scroll-proportion="0.37824476" vertical-offset="0" max-vertical-offset="1116" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/common/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="43" selection-start="287" selection-end="287" vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="522">
-          <folding />
-        </state>
+        <state line="6" column="43" selection-start="287" selection-end="287" vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="522" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/controller/common/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="38" selection-start="1062" selection-end="1062" vertical-scroll-proportion="-12.0" vertical-offset="0" max-vertical-offset="7362">
+        <state line="18" column="38" selection-start="1062" selection-end="1062" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="7362">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/model/deal/productDN.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="2" selection-start="852" selection-end="852" vertical-scroll-proportion="-12.666667" vertical-offset="0" max-vertical-offset="450">
+        <state line="19" column="2" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="450">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodpanda/controller/deal/daily.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="631" selection-end="631" vertical-scroll-proportion="0.28057554" vertical-offset="0" max-vertical-offset="900">
+        <state line="24" column="10" selection-start="936" selection-end="936" vertical-scroll-proportion="-16.0" vertical-offset="0" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/library/image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="40" selection-start="1898" selection-end="1898" vertical-scroll-proportion="0.92805755" vertical-offset="702" max-vertical-offset="3600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/model/tool/image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="12" selection-start="650" selection-end="650" vertical-scroll-proportion="0.38848922" vertical-offset="0" max-vertical-offset="834">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/tripdeal_P08072014.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2373" column="32" selection-start="96866" selection-end="96866" vertical-scroll-proportion="0.0" vertical-offset="42384" max-vertical-offset="137088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/catalog/product_list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="33" selection-start="2985" selection-end="2985" vertical-scroll-proportion="-3.5172415" vertical-offset="540" max-vertical-offset="3978">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controller/catalog/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="758" column="62" selection-start="29924" selection-end="29924" vertical-scroll-proportion="-9.62963" vertical-offset="13384" max-vertical-offset="26946">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/catalog/product_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="231" column="20" selection-start="13665" selection-end="13665" vertical-scroll-proportion="-2.8965516" vertical-offset="3906" max-vertical-offset="25848">
+          <folding>
+            <marker date="1428059617248" expanded="false" signature="60152:60166" placeholder="..." />
+            <marker date="1428059617248" expanded="false" signature="69400:69425" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/modify_db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="34" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/model/catalog/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="194" column="63" selection-start="12678" selection-end="12678" vertical-scroll-proportion="0.48441246" vertical-offset="3088" max-vertical-offset="13914">
           <folding />
         </state>
       </provider>

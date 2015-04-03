@@ -45,10 +45,6 @@
                 <td><textarea name="product_description[<?php echo $language['language_id']; ?>][description]" id="description<?php echo $language['language_id']; ?>"><?php echo isset($product_description[$language['language_id']]) ? $product_description[$language['language_id']]['description'] : ''; ?></textarea></td>
               </tr>
               <tr>
-                <td><?php echo $entry_itinerary; ?></td>
-                <td><textarea name="product_description[<?php echo $language['language_id']; ?>][itinerary]" id="itinerary<?php echo $language['language_id']; ?>"><?php echo isset($product_description[$language['language_id']]) ? $product_description[$language['language_id']]['itinerary'] : ''; ?></textarea></td>
-              </tr>
-              <tr>
                 <td><?php echo $entry_term_condition; ?></td>
                 <td><textarea name="product_description[<?php echo $language['language_id']; ?>][term_condition]" id="term_condition<?php echo $language['language_id']; ?>"><?php echo isset($product_description[$language['language_id']]) ? $product_description[$language['language_id']]['term_condition'] : ''; ?></textarea></td>
               </tr>
@@ -224,6 +220,35 @@
               <td><?php echo $entry_sort_order; ?></td>
               <td><input type="text" name="sort_order" value="<?php echo $sort_order; ?>" size="2" /></td>
             </tr>
+              <tr>
+                  <td>Giam gia tren 1 mon hang (%)</td>
+                  <td><input type="text" name="discount1" value="<?php echo $discount1; ?>" size="10" /></textarea></td>
+              </tr>
+            <tr>
+                <td>Number sold(So luong da ban)</td>
+                <td><input type="text" name="num_sold" value="<?php echo $num_sold; ?>" size="10" /></td>
+            </tr>
+            <tr>
+                <td>
+                    Stock(Con lai)
+                </td>
+                <td><input type="text" name="stock" value="<?php echo $stock; ?>" size="10" /></td>
+            </tr>
+              <tr>
+                  <td>
+                      Rating(to be the first rating)<br>
+                      <span class="help">
+                          Input rating 1 -> 5 stars
+                      </span>
+                  </td>
+                  <td><input type="text" name="rating" value="<?php echo $rating; ?>" size="2" /></td>
+              </tr>
+              <tr>
+                  <td>Comment(to be the first comment)</td>
+                  <td>
+                      <textarea name="comment" style="width: 600px; height: 120px;"><?php echo $comment; ?></textarea>
+                  </td>
+              </tr>
           </table>
         </div>
         <div id="tab-links">

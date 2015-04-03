@@ -7,14 +7,17 @@ CREATE TABLE IF NOT EXISTS `product_dn` (
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
 
 ALTER TABLE `product` ADD (
-   `product_name` varchar(255),
-   `promotion_image` varchar(255),
    `num_sold` int(11),
    `stock` int(11),
-   `thumb_image` varchar(255),
    `description` text,
-   `profile` varchar(255),
-   `rating` int(5),
-   `comment_id` int(11),
-   `discount` int(128)
+   `rating` float(2),
+   `discount1` int(128)
 );
+
+CREATE TABLE IF NOT EXISTS `comment` (
+  `comment_id` int(11) NOT NULL AUTO_INCREMENT,
+  `product_id` int(11) NOT NULL,
+  `noidung` varchar(255) NOT NULL,
+  `date_comment` date ,
+  PRIMARY KEY (`comment_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
