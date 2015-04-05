@@ -674,7 +674,7 @@
             <div id="dn" style="display:none">
                 <div id="zmask" style="position: fixed; top: 0px; left: 0px; width: 100%; height: 3146px; z-index: 1999; opacity: 0.7; background-color: rgb(0, 0, 0);"></div>
 
-                <div id="popupview" class="popup" style="top: 133px; left: 50%; z-index: 2000; margin-left: -325px; overflow: hidden; position: fixed; overflow: hidden;"> <a class="btn-close" href="" style="z-index: 2001;"></a>
+                <div id="popupview" class="popup" style="top: 133px; left: 50%; z-index: 2000; margin-left: -325px; overflow: hidden; position: fixed; overflow: hidden;"> <a class="btn-close" href="javascript:void(0);" style="z-index: 2001;"></a>
                     <div class="popup-inner">
                         <h2 id="popUpName"><span>Bạn đang đề nghị DEAL sản phẩm</span>Nokia X – WVGA 4”   3.0MP   4GB   2 SIM (Đen)</h2>
                         <p style="text-align: center;" id="popUpvote">Đã có 8/50 đề nghị</p>
@@ -687,16 +687,22 @@
                                         <input type="text" value="" id="dailyfullname" name="fulname" class="inputbox"/>
                                     </p>
                                     <p class="email">
+                                        <label>Phone</label>
+                                        <input type="text" value="" id="phone" name="phone" class="inputbox"/>
+                                    <p class="email">
                                         <label>Email</label>
-                                        <input type="text" value="" id="dailyemail" name="email" class="inputbox"/>
+                                        <input type="text" value="" id="email" name="email" class="inputbox"/>
                                         <span>Vui lòng cung cấp email chính xác, Lazada sẽ thông báo cho bạn khi sản phẩm này được bán DEAL</span> </p>
+                                    <p class="email">
+                                        <label>Số lượng</label>
+                                        <input type="text" value="1" id="soluong" name="soluong" class="inputbox"/>
                                     <p>
                                         <label>Nhập mã bảo mật</label>
                                         <input type="text" value="" id="dailycode" name="code" class="inputbox txt-code"/>
                                         <span class="code" id="divCaptcha"><img src="http://campaign.lazada.vn/_itool/gt/captcha?date=1425434350675" height="30"/></span> </p>
                                     <div class="group-btn">
                                         <p class="txt-error"></p>
-                                        <p class="btn-request"><a title="Gửi đề nghị" href="#" onClick="javascript:saveOrderDaily();">Gửi đề nghị</a></p>
+                                        <p class="btn-request"><a title="Gửi đề nghị" href="javascript:void(0);" onClick="javascript:sendDN();">Gửi đề nghị</a></p>
                                     </div>
                                 </fieldset>
                             </form>

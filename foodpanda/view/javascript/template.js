@@ -34,7 +34,8 @@ jQuery(document).ready(function(jQuery) {
 	        jQuery('.order-steps').toggle();
 	 });
 	jQuery(".btn-close").click(function(e) {
-	        jQuery('body').removeClass('mnopen');
+            jQuery('#dn').hide();
+            jQuery('#dn .popupview').hide();
 	 });
 	jQuery(".overlays").click(function(e) {
 	        jQuery('.content-wrapper').removeClass('mnopen');

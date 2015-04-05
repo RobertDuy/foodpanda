@@ -136,20 +136,32 @@ function ajaxRequest(url, type, data, dataType, actionSuccess, actionFailed){
     });
 }
 
+var link = "";
+
 $(document).ready(function(){
     $('#btnDN').bind('click', function(){
-        var url =  $('#linkSPDN').val().trim();
-        var data = {
-            "link" : url
-        };
-
-        if(isValidURL(url)){
-            ajaxRequest('index.php?route=deal/product_dn/insertOrUpdate', 'POST', data,'json', function(data){
-                alert('sucess');
-               }, function(){}
-            );
+        link =  $('#linkSPDN').val().trim();
+        if(isValidURL(link)){
+            $('#popUpName').html('<span>Bạn đang đề nghị DEAL sản phẩm</span>'+link.substring(0, 47) + '...');
+            jQuery('#dn').show();
+            jQuery('#dn .popupview').show();
         }else{
             alert('Xin vui lòng nhập đúng link');
         }
     });
 });
+
+function sendDN(){
+    var data = {
+        "link" : link,
+        "fullname" : $('#dailyfullname').val().trim(),
+        "phone" : $('#phone').val().trim(),
+        "email" : $('#email').val().trim(),
+        "soluong" : $('#soluong').val().trim()
+    };
+
+    ajaxRequest('index.php?route=deal/product_dn/insertOrUpdate', 'POST', data,'json', function(data){
+            alert(data);
+        }, function(){}
+    );
+}
