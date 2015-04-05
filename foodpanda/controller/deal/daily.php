@@ -12,13 +12,6 @@ class ControllerDealDaily extends Controller {
             $this->template = 'default/template/deal/dailydeal.tpl';
         }
 
-        $this->load->model('deal/productDN');
-
-        $start = 0;
-        $limit = 30;
-        $data = $this->model_deal_productDN->getDealDN($start, $limit);
-        $this->data['daily_deal'] = $data;
-
         $this->children = array(
             'common/header',
             'common/footer'

@@ -379,22 +379,19 @@
                     </div>
                     <div class="js-location-search location-search location-search-main-page  location_city_area">
                         <div class="location-search-inner">
-                            <form name="" method="get" action="https://www.foodpanda.vn/location-suggestions" role="form" class="form-vertical">
-                                <div class="city">
-                                    <label for="cityId" class="required" style="width: 400px; font-size: 16px;">Nhập link sản phẩm</label>
-                                    <div class="dropdown-typeahead-wrapper" id="wrapper-element-1">
-                    <span class="twitter-typeahead" style="position: relative; display: inline-block; direction: ltr;">
-                    <input class="form-control twitter-typeahead tt-hint" type="text" readonly autocomplete="off" spellcheck="false" tabindex="-1" style="position: absolute; top: 0px; left: 0px; border-color: transparent; box-shadow: none; opacity: 1; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); width: 665px;"/>
-                    <input class="form-control twitter-typeahead tt-input" type="text" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top; background-color: transparent; width: 665px;" placeholder="Enter link here .."/></span>
-                                    </div>
-                                    <span id="city-not-selected-error" class="help-inline"></span>
-
+                            <div class="city">
+                                <label for="cityId" class="required" style="width: 400px; font-size: 16px;">Nhập link sản phẩm</label>
+                                <div class="dropdown-typeahead-wrapper" id="wrapper-element-1">
+                                    <span class="twitter-typeahead" style="position: relative; display: inline-block; direction: ltr;">
+                                        <input class="form-control twitter-typeahead tt-hint" type="text" readonly autocomplete="off" spellcheck="false" tabindex="-1" style="position: absolute; top: 0px; left: 0px; border-color: transparent; box-shadow: none; opacity: 1; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); width: 665px;"/>
+                                        <input id="linkSPDN" class="form-control twitter-typeahead tt-input" type="text" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top; background-color: transparent; width: 665px;" placeholder="Enter link here .."/>
+                                    </span>
                                 </div>
-                                <div class="find-foods">
-                                    <button type="submit" id="button" name="button" class="btn btn-primary btn-lg btn-block btn-arrow">ĐỀ NGHỊ!</button>
-                                </div>
-                                <input type="hidden" id="area_id" name="area_id" data-prefill="location.areaId">
-                            </form>
+                                <span id="city-not-selected-error" class="help-inline"></span>
+                            </div>
+                            <div class="find-foods">
+                                <button id="btnDN" name="button" class="btn btn-primary btn-lg btn-block btn-arrow">ĐỀ NGHỊ!</button>
+                            </div>
                         </div>
                     </div>
                 </div>

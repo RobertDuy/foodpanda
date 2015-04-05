@@ -4,13 +4,13 @@
         <div class="nav-foodpanda">
             <ul>
                 <li>
-                    <a href="">Trang chủ</a>
+                    <a href="/<?php echo DIR_ROOT_NAME; ?>">Trang chủ</a>
                 </li>
                 <li>
                     <a href="">Deal sốc</a>
                 </li>
                 <li>
-                    <a href="">Daily deal</a>
+                    <a href="index.php?route=deal/daily">Daily deal</a>
                 </li>
                 <li>
                     <a href="">Du lịch</a>
