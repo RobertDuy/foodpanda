@@ -15,7 +15,8 @@ class ControllerCommonHome extends Controller {
         $this->children = array(
             'common/head',
             'common/header',
-            'common/footer'
+            'common/footer',
+            'deal/product_dn'
         );
 
         $this->response->setOutput($this->render());

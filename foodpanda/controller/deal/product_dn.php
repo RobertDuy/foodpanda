@@ -27,7 +27,7 @@ class ControllerDealProductDn extends Controller {
         $pagination->url = $this->url->link('deal/product_dn');
         $this->data['pagination'] = $pagination->render();
         $this->data['productdns'] = $this->model_deal_product_dn->getProducts($page, 50);
-        $this->template = 'deal/product_dn_list.tpl';
+        $this->template = 'default/template/deal/product_dn_list.tpl';
 
         $this->response->setOutput($this->render());
     }
@@ -36,6 +36,12 @@ class ControllerDealProductDn extends Controller {
         $this->load->model('deal/product_dn');
         $this->model_deal_product_dn->insertOrUpdate($this->request->post);
         $this->response->setOutput(json_encode("success"));
+    }
+
+    public function getOrderedLink(){
+        $this->load->model('deal/product_dn');
+        $data = $this->model_deal_product_dn->getOrderedLink($this->request->get);
+        $this->response->setOutput(json_encode($data));
     }
 }
 ?>

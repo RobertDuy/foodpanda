@@ -711,6 +711,14 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	margin: 0;
 	margin-bottom: 15px;
 }
+
+.popup-inner h2 a {
+    display: block;
+    font-size: 18px;
+    background: #ededed;
+    color: #688400;
+}
+
 .popup-inner h2 span {
 	display: block;
 	font-size: 14px;

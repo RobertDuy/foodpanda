@@ -1,6 +1,6 @@
 function isValidURL(url) {
     var RegExp = /^(([\w]+:)?\/\/)?(([\d\w]|%[a-fA-f\d]{2,2})+(:([\d\w]|%[a-fA-f\d]{2,2})+)?@)?([\d\w][-\d\w]{0,253}[\d\w]\.)+[\w]{2,4}(:[\d]+)?(\/([-+_~.\d\w]|%[a-fA-f\d]{2,2})*)*(\?(&?([-+_~.\d\w]|%[a-fA-f\d]{2,2})=?)*)?(#([-+_~.\d\w]|%[a-fA-f\d]{2,2})*)?$/;
-    if (RegExp.test(url)) {
+    if (RegExp.test(url) && url.indexOf(".html") > 0) {
         return true;
     } else {
         return false;
@@ -138,18 +138,46 @@ function ajaxRequest(url, type, data, dataType, actionSuccess, actionFailed){
 
 var link = "";
 
-$(document).ready(function(){
-    $('#btnDN').bind('click', function(){
-        link =  $('#linkSPDN').val().trim();
-        if(isValidURL(link)){
-            $('#popUpName').html('<span>Bạn đang đề nghị DEAL sản phẩm</span>'+link.substring(0, 47) + '...');
+function clickExistedProductDn(link, name, number_dn, max_dn){
+    var object = {};
+    object.link = link;
+    object.name = name;
+    object.number_dn = number_dn;
+    object.max_dn = max_dn;
+    btnDNClick(name, object);
+}
+
+function btnDNClick(linkOrName, data){
+    if(isValidURL(linkOrName)){
+        var data = {
+            "link" : linkOrName
+        };
+        if(data == undefined || data.number_dn == undefined){
+            link = linkOrName;
+            ajaxRequest('index.php?route=deal/product_dn/getOrderedLink', 'GET', data,'json', function(data){
+                    $('#popUpName').html('<span>Bạn đang đề nghị DEAL sản phẩm</span><a href="'+ linkOrName +'" target="_new" title="link san pham">' + linkOrName.substring(0, 47) + '...</a>');
+                    if(data.number_dn != undefined && data.number_dn > 0){
+                        $('#popUpvote').html('Đã có '+ data.number_dn + '/' + data.max_dn + ' đề nghị');
+                    }else{
+                        $('#popUpvote').html('');
+                    }
+                    jQuery('#dn').show();
+                    jQuery('#dn .popupview').show();
+                }, function(){}
+            );
+        }else{
+            link = data.link;
+            $('#popUpName').html('<span>Bạn đang đề nghị DEAL sản phẩm</span><a href="'+ data.link +'" target="_new" title="link san pham">' + data.name + '...</a>');
+            $('#popUpvote').html('Đã có '+ data.number_dn + '/' + data.max_dn + ' đề nghị');
+
             jQuery('#dn').show();
             jQuery('#dn .popupview').show();
-        }else{
-            alert('Xin vui lòng nhập đúng link');
         }
-    });
-});
+    }else{
+        alert('Xin vui lòng nhập đúng link');
+    }
+}
+
 
 function sendDN(){
     var data = {

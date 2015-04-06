@@ -390,7 +390,7 @@
                                 <span id="city-not-selected-error" class="help-inline"></span>
                             </div>
                             <div class="find-foods">
-                                <button id="btnDN" name="button" class="btn btn-primary btn-lg btn-block btn-arrow">ĐỀ NGHỊ!</button>
+                                <button id="btnDN" onclick="javascript:btnDNClick($('#linkSPDN').val().trim(), []);" name="button" class="btn btn-primary btn-lg btn-block btn-arrow">ĐỀ NGHỊ!</button>
                             </div>
                         </div>
                     </div>
@@ -439,238 +439,12 @@
                 </div>
             </div>
             <div class="container">
-            <div class="homepage-3"></div>
-            <div class="homepage-1">
-            <div class="homepage-banner mbl">
-            <h5>Danh sách sản phẩm được đề nghị DEAL nhiều nhất</h5>
-            <ul class="thumbs clearfix topvendors">
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p1.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p2.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p3.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p4.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p5.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p6.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p7.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p8.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p9.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p10.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p11.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p12.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p13.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p5.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p8.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p1.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            </ul>
-            </div>
-            </div>
+                <div class="homepage-3"></div>
+                <?php echo $product_dn; ?>
+
+            <!-- ========================-->
+            <!-- Pop up de nghi -->
+            <!-- ====================== -->
             <div id="dn" style="display:none">
                 <div id="zmask" style="position: fixed; top: 0px; left: 0px; width: 100%; height: 3146px; z-index: 1999; opacity: 0.7; background-color: rgb(0, 0, 0);"></div>
 
@@ -710,6 +484,10 @@
                     </div>
                 </div>
             </div>
+            <!-- ========================-->
+            <!-- End Pop up de nghi -->
+            <!-- ====================== -->
+
             <div class="homepage-2">
                 <style type="text/css">
                     .topvendors {

@@ -15,7 +15,7 @@ class ModelDealProductDn extends Model{
                 // update product_dn to customer
                 $this->model_deal_product_dn_to_customer->updateSoluong($product_dn_id, $customer_dn['customer_dn_id'], $data['soluong']);
             }else{
-                $this->db->query("INSERT INTO `" . DB_PREFIX . "product_dn` SET link = '". $this->db->escape($data['link']) . "' , number_dn = 1");
+                $this->db->query("INSERT INTO `" . DB_PREFIX . "product_dn` SET link = '". $this->db->escape($data['link']) . "' , number_dn = 1, status = 1");
                 $product_dn_id = $this->db->getLastId();
                 $this->model_deal_customer_dn->insertOrUpdateCustomerDn($data, $product_dn_id);
             }
@@ -36,6 +36,12 @@ class ModelDealProductDn extends Model{
     public function getTotal(){
         $query = $this->db->query("SELECT COUNT(*) FROM `". DB_PREFIX . "product_dn`");
         return $query->row['COUNT(*)'];
+    }
+
+    public function getOrderedLink($get){
+        $query = $this->db->query("SELECT number_dn, max_dn FROM `". DB_PREFIX . "product_dn`
+            WHERE link = '". $this->db->escape($get['link']) . "'");
+        return $query->row;
     }
 }
 ?>

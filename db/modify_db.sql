@@ -4,7 +4,9 @@ CREATE TABLE IF NOT EXISTS `product_dn` (
   `image` varchar(255) NOT NULL default '',
   `link` varchar(255) NOT NULL default '',
   `number_dn` int(11) NOT NULL default '0',
+  `description` text,
   `max_dn` int(11) NOT NULL default '50',
+  `status` int(1) NOT NULL default '1',
   PRIMARY KEY (`product_dn_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
 
