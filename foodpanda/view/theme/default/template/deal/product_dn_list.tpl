@@ -1,232 +1,29 @@
 <div class="homepage-1">
-<div class="homepage-banner mbl">
-    <?php ?>
-    <h5>Danh sách sản phẩm được đề nghị DEAL nhiều nhất</h5>
-        <ul class="thumbs clearfix topvendors">
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p1.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p2.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p3.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p4.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p5.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p6.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p7.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p8.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p9.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p10.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p11.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p12.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p13.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p5.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p8.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-            <li>
-                <p class="top-thumb">
-                    Đã có 8/50 đề nghị bán sản phẩm này
-                </p>
-                <a href="">
-                    <img src="image/p1.png"/>
-                </a>
-                <p>
-                    Nokia Lumina 720 - IPS ClearBack 4.3" 6.7MP 8GB (Đen)
-                </p>
-                <a class="btn-dn" href="#">
-                    Đề nghị
-                </a>
-            </li>
-        </ul>
+    <div class="homepage-banner mbl">
+        <h5>Danh sách sản phẩm được đề nghị DEAL nhiều nhất</h5>
+        <?php if($product_dns){ ?>
+        <?php foreach($product_dns as $product_dn){ ?>
+        <?php $link = $product_dn['link'];
+              $name = $product_dn['name'];
+              $number_dn = $product_dn['number_dn'];
+              $max_dn = $product_dn['max_dn'];
+        ?>
+            <ul class="thumbs clearfix topvendors">
+                <li>
+                    <p class="top-thumb">
+                        Đã có <?php echo $number_dn; ?>/<?php echo $max_dn; ?> đề nghị bán sản phẩm này
+                    </p>
+                    <a href="">
+                        <img src="<?php echo $link; ?>"/>
+                    </a>
+                    <p>
+                        <?php echo $name; ?>
+                    </p>
+                    <a class="btn-dn" href="javascript:void(0);" onclick="javascript:clickExistedProductDn('<?php echo $link;?>', '<?php echo $name?>', '<?php echo $number_dn;?>', '<?php echo $max_dn?>')">
+                        Đề nghị
+                    </a>
+                </li>
+            </ul>
+        <?php }} ?>
     </div>
 </div>

@@ -43,8 +43,14 @@
                                     </td>
                                     <td class="center"><img src="<?php echo $productdn['image']; ?>" alt="<?php echo $productdn['name']; ?>" style="padding: 1px; border: 1px solid #DDDDDD;" /></td>
                                     <td class="left"><?php echo $productdn['name']; ?></td>
-                                    <td class="left"><?php echo $productdn['link']; ?></td>
+                                    <td class="left"><a href="<?php echo $productdn['link']; ?>" target="_blank"><?php echo $productdn['link']; ?></a></td>
                                     <td class="left"><?php echo $productdn['number_dn']; ?></td>
+                                    <td class="right">
+                                        <?php $link = 'index.php?route=catalog/product_dn/edit&token='; ?>
+                                        <?php $link .= $token; ?>
+                                        <?php $link .= '&product_dn_id='. $productdn['product_dn_id']; ?>
+                                        [ <a href="<?php echo $link; ?>">Edit</a> ]
+                                    </td>
                                 </tr>
                             <?php } ?>
                         <?php } else { ?>

@@ -26,7 +26,7 @@ class ControllerDealProductDn extends Controller {
         $pagination->limit = 50;
         $pagination->url = $this->url->link('deal/product_dn');
         $this->data['pagination'] = $pagination->render();
-        $this->data['productdns'] = $this->model_deal_product_dn->getProducts($page, 50);
+        $this->data['product_dns'] = $this->model_deal_product_dn->getProducts($page, 50);
         $this->template = 'default/template/deal/product_dn_list.tpl';
 
         $this->response->setOutput($this->render());

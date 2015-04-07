@@ -136,7 +136,7 @@ function ajaxRequest(url, type, data, dataType, actionSuccess, actionFailed){
     });
 }
 
-var link = "";
+var currentLink = "";
 
 function clickExistedProductDn(link, name, number_dn, max_dn){
     var object = {};
@@ -144,18 +144,18 @@ function clickExistedProductDn(link, name, number_dn, max_dn){
     object.name = name;
     object.number_dn = number_dn;
     object.max_dn = max_dn;
-    btnDNClick(name, object);
+    btnDNClick(link, object);
 }
 
-function btnDNClick(linkOrName, data){
-    if(isValidURL(linkOrName)){
+function btnDNClick(link, data){
+    if(isValidURL(link)){
         var data = {
-            "link" : linkOrName
+            "link" : link
         };
         if(data == undefined || data.number_dn == undefined){
-            link = linkOrName;
+            currentLink = link;
             ajaxRequest('index.php?route=deal/product_dn/getOrderedLink', 'GET', data,'json', function(data){
-                    $('#popUpName').html('<span>Bạn đang đề nghị DEAL sản phẩm</span><a href="'+ linkOrName +'" target="_new" title="link san pham">' + linkOrName.substring(0, 47) + '...</a>');
+                    $('#popUpName').html('<span>Bạn đang đề nghị DEAL sản phẩm</span><a href="'+ link +'" target="_new" title="link san pham">' + link.substring(0, 47) + '...</a>');
                     if(data.number_dn != undefined && data.number_dn > 0){
                         $('#popUpvote').html('Đã có '+ data.number_dn + '/' + data.max_dn + ' đề nghị');
                     }else{
@@ -166,7 +166,7 @@ function btnDNClick(linkOrName, data){
                 }, function(){}
             );
         }else{
-            link = data.link;
+            currentLink = data.link;
             $('#popUpName').html('<span>Bạn đang đề nghị DEAL sản phẩm</span><a href="'+ data.link +'" target="_new" title="link san pham">' + data.name + '...</a>');
             $('#popUpvote').html('Đã có '+ data.number_dn + '/' + data.max_dn + ' đề nghị');
 
@@ -178,10 +178,9 @@ function btnDNClick(linkOrName, data){
     }
 }
 
-
 function sendDN(){
     var data = {
-        "link" : link,
+        "link" : currentLink,
         "fullname" : $('#dailyfullname').val().trim(),
         "phone" : $('#phone').val().trim(),
         "email" : $('#email').val().trim(),

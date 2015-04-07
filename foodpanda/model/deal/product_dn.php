@@ -9,11 +9,10 @@ class ModelDealProductDn extends Model{
 
             if(isset($queryRow['product_dn_id'])){
                 $product_dn_id = (int)$queryRow['product_dn_id'];
-                $customer_dn = $this->model_deal_customer_dn->getCustomerDn($data);
+                $this->model_deal_customer_dn->insertOrUpdateCustomerDn($data, $product_dn_id);
+
                 // update product_ dn
                 $this->db->query("UPDATE `". DB_PREFIX ."product_dn` SET number_dn = number_dn + ". (int)$data['soluong'] ." WHERE product_dn_id = ". $product_dn_id);
-                // update product_dn to customer
-                $this->model_deal_product_dn_to_customer->updateSoluong($product_dn_id, $customer_dn['customer_dn_id'], $data['soluong']);
             }else{
                 $this->db->query("INSERT INTO `" . DB_PREFIX . "product_dn` SET link = '". $this->db->escape($data['link']) . "' , number_dn = 1, status = 1");
                 $product_dn_id = $this->db->getLastId();
